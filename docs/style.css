@@ -81,6 +81,15 @@ h1 .sub { font-size: .85rem; color: var(--accent); font-weight: 600; margin-left
 .highlights li a:hover { text-decoration: underline; }
 .highlights li .src { color: var(--muted); font-size: .8rem; margin-left: 6px; font-weight: normal; }
 
+.reports { margin: 16px 0; padding: 12px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+.reports-head { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.reports h2 { margin: 0; font-size: .95rem; }
+.report-links { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0; }
+.report-links a { text-decoration: none; }
+.report-list { margin: 6px 0 0; padding-left: 1.2em; font-size: .85rem; columns: 2 280px; }
+.reports details summary { cursor: pointer; font-size: .85rem; color: var(--muted); }
+#reportDays { display: block; margin: 4px 0 8px; }
+
 .filters { margin: 16px 0 8px; display: grid; gap: 10px; }
 .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
 input[type="search"], select, input[type="password"] {

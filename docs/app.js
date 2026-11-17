@@ -44,6 +44,29 @@
     buildStatus();
     buildHighlights();
     render();
+    loadReports();
+  }
+
+  // ------------------------------------------------------------ Word 報告書
+  async function loadReports() {
+    let idx;
+    try {
+      const r = await fetch(`reports/index.json?t=${Date.now()}`, { cache: "no-store" });
+      if (!r.ok) return;
+      idx = await r.json();
+    } catch { return; }
+    const reps = idx.reports || [];
+    if (!reps.length) return;
+    $("reports").hidden = false;
+    const latest = {};
+    reps.forEach((r) => { if (!latest[r.slug] || r.created > latest[r.slug].created) latest[r.slug] = r; });
+    $("reportLinks").innerHTML = ["daily", "weekly", "monthly"].filter((k) => latest[k]).map((k, i) => {
+      const r = latest[k];
+      return `<a class="btn ${i === 0 ? "primary" : ""}" href="reports/${encodeURIComponent(r.file)}" download="${esc(r.file)}">📄 最新の${esc(r.kind)}（${esc(r.date.slice(5).replace("-", "/"))}・${r.topics}話題）</a>`;
+    }).join("");
+    $("reportMeta").textContent = "記事を分野別に整理した報告書をダウンロードできます（毎朝自動作成）";
+    $("reportList").innerHTML = reps.map((r) =>
+      `<li><a href="reports/${encodeURIComponent(r.file)}" download="${esc(r.file)}">${esc(r.date)} ${esc(r.kind)}</a> <span class="small">${r.topics}話題</span></li>`).join("");
   }
 
   function buildSourceSelect() {
@@ -66,10 +89,20 @@
 
   function buildHighlights() {
     const since = Date.now() - 36 * 3600e3;
-    const top = data.articles
+    // 同じ出来事の別媒体記事を除いて上位5話題を選ぶ
+    const core = (t) => t.normalize("NFKC").replace(/[（(][^（）()]{1,30}[）)]\s*$/, "").replace(/[｜|].*$/, "")
+      .replace(/【[^】]*】|\[[^\]]*\]/g, "").replace(/[\s、。・,.!?！？「」『』"':\-]/g, "");
+    const bg = (t) => { const s = new Set(); for (let i = 0; i < t.length - 1; i++) s.add(t.slice(i, i + 2)); return s; };
+    const similar = (x, y) => { let n = 0; x.forEach((v) => y.has(v) && n++); return n / Math.max(1, Math.min(x.size, y.size)) >= 0.55; };
+    const top = [];
+    data.articles
       .filter((a) => a.areas.includes("iwate") && new Date(a.published) >= since)
       .sort((a, b) => b.score - a.score)
-      .slice(0, 5);
+      .forEach((a) => {
+        if (top.length >= 5) return;
+        const g = bg(core(a.title));
+        if (!top.some((t) => similar(t._bg, g))) top.push({ ...a, _bg: g });
+      });
     $("highlights").hidden = top.length === 0;
     $("highlightList").innerHTML = top.map((a) =>
       `<li><a href="${esc(a.url)}" target="_blank" rel="noopener" data-id="${a.id}">${esc(a.title)}</a><span class="src">${esc(a.source)}・${fmtDate(a.published)}</span></li>`).join("");
@@ -213,7 +246,7 @@
       const res = await fetch(`https://api.github.com/repos/${CFG.repo}/actions/workflows/${CFG.workflow}/dispatches`, {
         method: "POST",
         headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${tk}`, "X-GitHub-Api-Version": "2022-11-28" },
-        body: JSON.stringify({ ref: CFG.branch || "main" }),
+        body: JSON.stringify({ ref: CFG.branch || "main", inputs: { report_days: $("reportDays").value } }),
       });
       if (res.status !== 204) throw new Error(`HTTP ${res.status}`);
       msg.textContent = "更新を開始しました。完了すると自動で再読み込みします（2〜5分）。";

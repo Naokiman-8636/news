@@ -32,6 +32,18 @@
     <ol id="highlightList"></ol>
   </section>
 
+  <section class="reports" id="reports" hidden>
+    <div class="reports-head">
+      <h2>Word 報告書</h2>
+      <span class="small" id="reportMeta"></span>
+    </div>
+    <div class="report-links" id="reportLinks"></div>
+    <details>
+      <summary>過去の報告書（90日分）</summary>
+      <ul id="reportList" class="report-list"></ul>
+    </details>
+  </section>
+
   <section class="filters" aria-label="絞り込み">
     <div class="row">
       <input id="q" type="search" placeholder="キーワードで検索（例: ワカメ、宮古、密漁）" autocomplete="off">
@@ -85,10 +97,18 @@
 <dialog id="updateDialog">
   <form method="dialog" class="dlg">
     <h3>ニュースを今すぐ更新</h3>
-    <p>GitHub Actions で収集を実行します（完了まで2〜5分程度）。</p>
+    <p>GitHub Actions で収集と Word 報告書の作成を実行します（完了まで2〜5分程度）。</p>
+    <label class="small">作成する Word 報告書
+      <select id="reportDays">
+        <option value="1">日報（直近1日）</option>
+        <option value="7">週報（直近7日）</option>
+        <option value="30">月報（直近30日）</option>
+        <option value="1 7 30">日報・週報・月報すべて</option>
+      </select>
+    </label>
     <ol class="steps">
       <li><a id="actionsLink" target="_blank" rel="noopener">GitHub の「ニュース更新」画面を開く</a></li>
-      <li>右側の <b>Run workflow</b> → 緑の <b>Run workflow</b> を押す</li>
+      <li>右側の <b>Run workflow</b> を押し、報告書の種類を選んで緑の <b>Run workflow</b> を押す</li>
       <li>数分後にこのページを再読み込み</li>
     </ol>
     <details class="token">
