@@ -1,0 +1,137 @@
+# ============================================================
+# ニュース取得元の設定
+# ------------------------------------------------------------
+# type:
+#   google_news : Google ニュースの検索RSS。RSSを提供していない媒体
+#                 （岩手日報・水産経済新聞など）は「site:ドメイン」で絞り込む。
+#   rss         : 媒体が公開しているRSS/RDF/Atomを直接取得する。
+# filter: true  → 水産関連キーワード（keywords.yaml）に当たった記事だけ残す
+#         false → すべて残す（水産専門紙など）
+# 行頭に # を付けるとその行は無効になります。
+# ============================================================
+
+# Google ニュース検索の共通設定
+google_news:
+  period: 7d          # 直近何日分を検索するか（例: 1d, 3d, 7d）
+  hl: ja
+  gl: JP
+  ceid: "JP:ja"
+
+sources:
+  # ---------------- 主要媒体（サイト指定） ----------------
+  - name: 岩手日報
+    type: google_news
+    query: 'site:iwate-np.co.jp (漁業 OR 水産 OR 漁協 OR 漁連 OR 漁港 OR 水揚げ OR 養殖 OR サケ OR サンマ OR ワカメ OR アワビ OR ウニ OR 定置網 OR 密漁)'
+    filter: true
+
+  - name: 朝日新聞
+    type: google_news
+    query: 'site:asahi.com (岩手 OR 三陸) (漁業 OR 水産 OR 漁協 OR 漁港 OR 水揚げ OR 養殖 OR サケ OR サンマ OR ワカメ OR 不漁)'
+    filter: true
+
+  - name: 朝日新聞（水産全般）
+    type: google_news
+    query: 'site:asahi.com (漁業 OR 水産庁 OR 漁獲量 OR 不漁 OR 漁協)'
+    filter: true
+
+  - name: Yahoo!ニュース
+    type: google_news
+    query: 'site:news.yahoo.co.jp (岩手 OR 三陸) (漁業 OR 水産 OR 漁協 OR 水揚げ OR 養殖 OR サケ OR サンマ OR ワカメ OR 密漁)'
+    filter: true
+
+  - name: Yahoo!ニュース（水産全般）
+    type: google_news
+    query: 'site:news.yahoo.co.jp (漁業 OR 水産庁 OR 漁獲量 OR 不漁 OR 漁協 OR 漁連)'
+    filter: true
+
+  - name: 水産経済新聞
+    type: google_news
+    query: 'site:suisan.co.jp'
+    filter: false
+
+  - name: みなと新聞
+    type: google_news
+    query: 'site:minato-yamaguchi.co.jp'
+    filter: false
+
+  - name: 日刊水産経済新聞（岩手・三陸）
+    type: google_news
+    query: 'site:suisan.co.jp (岩手 OR 三陸 OR 宮古 OR 釜石 OR 大船渡 OR 久慈)'
+    filter: false
+
+  # ---------------- キーワード横断検索（媒体を問わない） ----------------
+  - name: キーワード:岩手 漁業
+    type: google_news
+    query: '岩手 (漁業 OR 水産業 OR 漁協 OR 漁港 OR 水揚げ)'
+    filter: true
+
+  - name: キーワード:県漁連・漁協
+    type: google_news
+    query: '("岩手県漁連" OR "岩手県漁業協同組合連合会" OR "県漁連" OR "全漁連" OR "JF岩手")'
+    filter: true
+
+  - name: キーワード:三陸 漁業
+    type: google_news
+    query: '三陸 (漁業 OR 水揚げ OR 養殖 OR 漁獲 OR 不漁)'
+    filter: true
+
+  - name: キーワード:秋サケ
+    type: google_news
+    query: '(秋サケ OR サケ 回帰 OR サケ 稚魚 OR サケ ふ化場) (岩手 OR 三陸 OR 本州)'
+    filter: true
+
+  - name: キーワード:サンマ・スルメイカ
+    type: google_news
+    query: '(サンマ OR スルメイカ OR マイワシ OR サバ) (水揚げ OR 漁獲 OR 漁況 OR 不漁 OR 初水揚げ)'
+    filter: true
+
+  - name: キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）
+    type: google_news
+    query: '(ワカメ OR カキ OR ホタテ OR ホヤ OR トラウトサーモン OR ギンザケ) (岩手 OR 三陸 OR 宮古 OR 釜石 OR 大船渡 OR 久慈) 養殖'
+    filter: true
+
+  - name: キーワード:アワビ・ウニ・密漁
+    type: google_news
+    query: '(アワビ OR ウニ OR ナマコ OR 密漁) (岩手 OR 三陸)'
+    filter: true
+
+  - name: キーワード:水産政策
+    type: google_news
+    query: '(水産庁 OR 漁業法 OR TAC OR 漁獲可能量 OR 資源管理 OR 水産基本計画)'
+    filter: true
+
+  - name: キーワード:処理水・輸出
+    type: google_news
+    query: '(処理水 OR 禁輸 OR 輸出) (水産物 OR ホタテ OR ナマコ OR 漁業)'
+    filter: true
+
+  - name: キーワード:海洋環境・貝毒
+    type: google_news
+    query: '(海水温 OR 黒潮 OR 親潮 OR 貝毒 OR 赤潮 OR 磯焼け) (岩手 OR 三陸 OR 東北)'
+    filter: true
+
+  - name: キーワード:NHK岩手
+    type: google_news
+    query: 'NHK 岩手 (漁業 OR 水揚げ OR 漁協 OR サケ OR 養殖 OR 漁港)'
+    filter: true
+
+  # ---------------- 直接取得するRSS ----------------
+  - name: 朝日新聞（速報RSS）
+    type: rss
+    url: 'https://www.asahi.com/rss/asahi/newsheadlines.rdf'
+    filter: true
+
+  - name: Yahoo!ニュース（国内トピックス）
+    type: rss
+    url: 'https://news.yahoo.co.jp/rss/topics/domestic.xml'
+    filter: true
+
+  - name: Yahoo!ニュース（地域トピックス）
+    type: rss
+    url: 'https://news.yahoo.co.jp/rss/topics/local.xml'
+    filter: true
+
+  - name: Yahoo!ニュース（経済トピックス）
+    type: rss
+    url: 'https://news.yahoo.co.jp/rss/topics/business.xml'
+    filter: true

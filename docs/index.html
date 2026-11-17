@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>水産ニュース岩手</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐟</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <div>
+      <h1>水産・漁業ニュース <span class="sub">岩手・三陸版</span></h1>
+      <p class="meta">
+        最終更新 <strong id="updated">—</strong>
+        <span class="dot">·</span> 新着 <strong id="newCount">0</strong> 件
+        <span class="dot">·</span> 保持 <span id="total">0</span> 件
+        <span class="dot">·</span> 毎朝7時ごろ自動更新
+      </p>
+    </div>
+    <div class="top-actions">
+      <button id="btnUpdate" class="btn primary" type="button">⟳ 今すぐ更新</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="highlights" class="highlights" hidden>
+    <h2>今朝の注目（岩手・三陸 × 水産）</h2>
+    <ol id="highlightList"></ol>
+  </section>
+
+  <section class="filters" aria-label="絞り込み">
+    <div class="row">
+      <input id="q" type="search" placeholder="キーワードで検索（例: ワカメ、宮古、密漁）" autocomplete="off">
+      <select id="period" aria-label="期間">
+        <option value="1">今日（24時間）</option>
+        <option value="3">直近3日</option>
+        <option value="7" selected>直近7日</option>
+        <option value="30">直近30日</option>
+      </select>
+      <select id="sort" aria-label="並び順">
+        <option value="date">新しい順</option>
+        <option value="score">重要度順</option>
+      </select>
+      <select id="source" aria-label="媒体">
+        <option value="">すべての媒体</option>
+      </select>
+    </div>
+    <div class="row toggles">
+      <label class="toggle"><input id="onlyIwate" type="checkbox"> 岩手・三陸のみ</label>
+      <label class="toggle"><input id="onlyMajor" type="checkbox"> 主要媒体のみ<small>（岩手日報・朝日・Yahoo!・水産経済・みなと）</small></label>
+      <label class="toggle"><input id="onlyNew" type="checkbox"> 新着のみ</label>
+      <label class="toggle"><input id="hideRead" type="checkbox"> 既読を隠す</label>
+    </div>
+    <div class="chips" id="chips" aria-label="分野"></div>
+  </section>
+
+  <section class="clipbar">
+    <span id="count">0 件</span>
+    <span class="spacer"></span>
+    <button class="btn" type="button" id="btnSelectAll">表示中をすべて選択</button>
+    <button class="btn" type="button" id="btnClear">選択解除</button>
+    <button class="btn primary" type="button" id="btnCopy" disabled>選択記事をコピー（<span id="selCount">0</span>）</button>
+  </section>
+
+  <ul id="list" class="list"></ul>
+  <p id="empty" class="empty" hidden>条件に合う記事がありません。期間や絞り込みを変えてみてください。</p>
+
+  <details class="status">
+    <summary>取得元の状況</summary>
+    <table>
+      <thead><tr><th>取得元</th><th>状態</th><th>採用 / 取得</th></tr></thead>
+      <tbody id="statusBody"></tbody>
+    </table>
+    <p class="note">
+      記事の見出し・リンクは Google ニュース検索および各社の公開RSSから取得しています。本文は各媒体のサイトでご確認ください
+      （岩手日報・水産経済新聞などは会員限定記事の場合があります）。
+    </p>
+  </details>
+</main>
+
+<dialog id="updateDialog">
+  <form method="dialog" class="dlg">
+    <h3>ニュースを今すぐ更新</h3>
+    <p>GitHub Actions で収集を実行します（完了まで2〜5分程度）。</p>
+    <ol class="steps">
+      <li><a id="actionsLink" target="_blank" rel="noopener">GitHub の「ニュース更新」画面を開く</a></li>
+      <li>右側の <b>Run workflow</b> → 緑の <b>Run workflow</b> を押す</li>
+      <li>数分後にこのページを再読み込み</li>
+    </ol>
+    <details class="token">
+      <summary>ワンクリック更新を設定する（任意）</summary>
+      <p class="small">
+        GitHub の「Fine-grained personal access token」（このリポジトリのみ、権限は <b>Actions: Read and write</b> だけ）を入力すると、
+        このボタンから直接更新できます。トークンはこのブラウザ内にのみ保存されます。共用PCでは設定しないでください。
+      </p>
+      <input id="token" type="password" placeholder="github_pat_..." autocomplete="off">
+      <div class="dlg-row">
+        <button class="btn" type="button" id="btnSaveToken">保存</button>
+        <button class="btn" type="button" id="btnForgetToken">削除</button>
+      </div>
+    </details>
+    <p id="dispatchMsg" class="small msg"></p>
+    <div class="dlg-row end">
+      <button class="btn primary" type="button" id="btnDispatch" hidden>更新を実行</button>
+      <button class="btn" value="close">閉じる</button>
+    </div>
+  </form>
+</dialog>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
