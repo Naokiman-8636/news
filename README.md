@@ -58,11 +58,19 @@
 4. **初回の収集を実行**
    Actions タブ → 「ニュース更新」→ Run workflow。2〜5分でページに記事が表示されます。
 
+### ページが 404 になるとき
+
+- 開くURLは **`https://naokiman-8636.github.io/news/`** です（`/docs/` は付けません。`docs` フォルダの中身がサイトの最上位になります）。
+- Settings → Pages の「Source」が `Deploy from a branch`、Branch が `main`、フォルダが **`/docs`** になっているか確認します。
+  `/(root)` になっていると README が表示されたり、ページが見つからなかったりします。
+- 設定を変えた直後や更新直後は、反映まで1〜3分かかります。Actions タブの「pages build and deployment」が緑（成功）になってから開いてください。
+- 非公開（Private）リポジトリの場合、無料プランでは Pages を使えません（Settings → General の一番下で Public に変更するか、有料プランが必要です）。
+
 ## 更新のしくみ
 
 - `.github/workflows/update-news.yml` が **毎朝 6:07（日本時間）** に起動し、収集と Word 報告書の作成を行います
   （GitHub の定時実行は混雑時に数十分遅れることがあるため、7時までに終わるよう早めに起動しています）。
-- 更新後、ページ公開用のワークフロー（`static.yml`）を自動で起動してページに反映します。
+- 更新結果を main に push すると、GitHub Pages（main ブランチの `/docs` から公開）が自動で再構築されます。
 - 手動更新は次のどちらかで行えます。
   - ページ右上の「今すぐ更新」→ GitHub の画面で **Run workflow**
   - 「ワンクリック更新を設定する」に Fine-grained トークン（このリポジトリのみ・権限は *Actions: Read and write* だけ）を

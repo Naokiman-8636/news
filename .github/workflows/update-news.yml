@@ -15,7 +15,6 @@ on:
 
 permissions:
   contents: write
-  actions: write      # 更新後にページ公開ワークフロー（static.yml）を起動するため
 
 concurrency:
   group: update-news
@@ -57,7 +56,6 @@ jobs:
           python scripts/report.py --days $DAYS
 
       - name: 結果をコミット
-        id: commit
         run: |
           git config user.name "news-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -67,18 +65,9 @@ jobs:
             exit 0
           fi
           git commit -m "ニュース更新 $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+          # push すると GitHub Pages（main の /docs から公開）が自動で再構築されます
           for i in 1 2 3; do
-            if git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
-              echo "pushed=true" >> "$GITHUB_OUTPUT"
-              exit 0
-            fi
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
             sleep 5
           done
           exit 1
-
-      # Actions からの push では他のワークフローが自動起動しないため、公開ワークフローを明示的に起動する
-      - name: ページを再公開
-        if: steps.commit.outputs.pushed == 'true' && hashFiles('.github/workflows/static.yml') != ''
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh workflow run static.yml --ref "${GITHUB_REF_NAME}"
