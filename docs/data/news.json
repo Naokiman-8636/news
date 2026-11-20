@@ -1,42 +1,42 @@
 {
- "updated_at": "2026-11-20T07:34+09:00",
- "new_count": 79,
- "total": 446,
+ "updated_at": "2026-11-21T07:29+09:00",
+ "new_count": 72,
+ "total": 518,
  "sources": [
   {
    "name": "岩手日報",
    "ok": true,
    "fetched": 100,
    "kept": 5,
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "name": "朝日新聞",
    "ok": true,
-   "fetched": 10,
+   "fetched": 9,
    "kept": 3,
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "朝日新聞（水産全般）",
    "ok": true,
-   "fetched": 40,
+   "fetched": 38,
    "kept": 8,
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "Yahoo!ニュース",
    "ok": true,
-   "fetched": 84,
-   "kept": 17,
-   "seconds": 0.4
+   "fetched": 76,
+   "kept": 16,
+   "seconds": 0.3
   },
   {
    "name": "Yahoo!ニュース（水産全般）",
    "ok": true,
    "fetched": 100,
-   "kept": 62,
-   "seconds": 0.5
+   "kept": 67,
+   "seconds": 0.4
   },
   {
    "name": "水産経済新聞",
@@ -49,56 +49,56 @@
    "name": "みなと新聞",
    "ok": true,
    "fetched": 100,
-   "kept": 94,
-   "seconds": 0.5
+   "kept": 97,
+   "seconds": 0.3
   },
   {
    "name": "日刊水産経済新聞（岩手・三陸）",
    "ok": true,
    "fetched": 0,
    "kept": 0,
-   "seconds": 0.3
+   "seconds": 0.2
   },
   {
    "name": "キーワード:岩手 漁業",
    "ok": true,
-   "fetched": 19,
+   "fetched": 20,
    "kept": 6,
    "seconds": 0.3
   },
   {
    "name": "キーワード:県漁連・漁協",
    "ok": true,
-   "fetched": 6,
-   "kept": 4,
+   "fetched": 9,
+   "kept": 5,
    "seconds": 0.3
   },
   {
    "name": "キーワード:三陸 漁業",
    "ok": true,
-   "fetched": 13,
-   "kept": 6,
+   "fetched": 18,
+   "kept": 8,
    "seconds": 0.3
   },
   {
    "name": "キーワード:秋サケ",
    "ok": true,
    "fetched": 3,
-   "kept": 1,
-   "seconds": 0.2
+   "kept": 2,
+   "seconds": 0.3
   },
   {
    "name": "キーワード:サンマ・スルメイカ",
    "ok": true,
-   "fetched": 31,
+   "fetched": 29,
    "kept": 15,
    "seconds": 0.3
   },
   {
    "name": "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）",
    "ok": true,
-   "fetched": 11,
-   "kept": 3,
+   "fetched": 19,
+   "kept": 10,
    "seconds": 0.3
   },
   {
@@ -106,33 +106,33 @@
    "ok": true,
    "fetched": 19,
    "kept": 4,
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "name": "キーワード:水産政策",
    "ok": true,
-   "fetched": 67,
-   "kept": 5,
-   "seconds": 0.5
+   "fetched": 78,
+   "kept": 6,
+   "seconds": 0.4
   },
   {
    "name": "キーワード:処理水・輸出",
    "ok": true,
    "fetched": 26,
-   "kept": 9,
+   "kept": 10,
    "seconds": 0.3
   },
   {
    "name": "キーワード:海洋環境・貝毒",
    "ok": true,
-   "fetched": 9,
-   "kept": 2,
+   "fetched": 14,
+   "kept": 1,
    "seconds": 0.3
   },
   {
    "name": "キーワード:NHK岩手",
    "ok": true,
-   "fetched": 5,
+   "fetched": 3,
    "kept": 0,
    "seconds": 0.3
   },
@@ -140,8 +140,8 @@
    "name": "朝日新聞（速報RSS）",
    "ok": true,
    "fetched": 40,
-   "kept": 1,
-   "seconds": 0.2
+   "kept": 0,
+   "seconds": 0.1
   },
   {
    "name": "Yahoo!ニュース（国内トピックス）",
@@ -155,14 +155,14 @@
    "ok": true,
    "fetched": 8,
    "kept": 0,
-   "seconds": 0.4
+   "seconds": 0.7
   },
   {
    "name": "Yahoo!ニュース（経済トピックス）",
    "ok": true,
    "fetched": 8,
    "kept": 0,
-   "seconds": 0.4
+   "seconds": 0.7
   }
  ],
  "category_labels": {
@@ -181,6 +181,952 @@
   "labor": "担い手・経営"
  },
  "articles": [
+  {
+   "id": "e362d99a9347931e",
+   "title": "「好き」貫き人生デザイン 水産庁の青木さんが母校で講演 館山市の安房高校（千葉県）（房日新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HWUxJTzhudndIUlc0eGpjeDV5TEFxWm5nXzNQWEZwQlJZNjhRUXowcU54VFR4QzNaWXlHaUQxQVlzV05YU3Y3ZDJfeVRURU9zR0h0YkdwRmZ4bTBFX3I5Y3ctWERqMGNPSFdkRnVTSDRWX05Vc1Rkcy1lVFZxRUE?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:46+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）",
+    "キーワード:水産政策"
+   ],
+   "score": 7.5,
+   "areas": [],
+   "categories": [
+    "policy"
+   ],
+   "keywords": [
+    "水産庁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "0b99dbdfb42967ea",
+   "title": "悪質!「釣り人たち」の「漁港マナー」 メリット超える「危険」に「苦渋のNG」も…【現役漁師インタビュー】（BRAVO MOUNTAIN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80WHlJb3Y2b1p0R1pYejhyLS01VWtWb1ppRWo2ZF91Nzk2Q2N1WjZWdzFVM0l6ZzdQMlFLWVNKQU9lcllHNTJncjE1Vm9UVHRXT0VWLWhSX01qY1NOQTRrSndXblZrenZPVUhZbGo0OFJ3VGgyamd3Y0hySDVhZmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:15+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "6985b3026075db28",
+   "title": "【事件】作業員男性に傷害疑い４９歳男逮捕/山口署、住宅解体現場で",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSUdKcXN5eGcySlVLbV9ESFJCMnN5SDBMbmtfaW1pbFlSaThxdThoOFhVTkxHTXo2M2htX3JtamY3OVBwcVNZa1J3SE9pend0UlktdG1JNWpWZWM3Zlc5M2prMG1PNXhXQlE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "safety"
+   ],
+   "keywords": [
+    "逮捕"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "bda85dd88cca112c",
+   "title": "【事件】風俗店禁止地域で営業疑い/下関署が経営者の男逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1keVV6RGI1Sy1BNG9RZHdVLUhGeTdoOU15T2ZLWXgyc2hDZmZOXzNPT00ySkprOERsM0d3U1BUUnl2RG5DdHlsYkVHb3FIbFVnV1NrYmlTb1dQR2ZYSGY5SHJJSzZETTQ0c3c?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "safety",
+    "labor"
+   ],
+   "keywords": [
+    "逮捕",
+    "経営"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "e8b3c9d9447def3d",
+   "title": "【山口県】知事の予定/2026年11月21日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40emtLb2gzUms5MjdBVkY2ODlNYkY2d09wcHhMOGV1Y2JHZ1ZTdkgwU1ZOV3I1WjJRWVlFQkxCNnlhdVlYZUZmY29rMzBvaTVTRWgxWTUyVGxKbTdiUTJtSnhNLWE1a1BJSXc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 7.5,
+   "areas": [],
+   "categories": [
+    "policy"
+   ],
+   "keywords": [
+    "知事"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "e25cabc3c1101281",
+   "title": "３５の手習い 東流西流 川北真三郎さん",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fbk5udmdJY0ZLU2FSTURlUk9fVnJIZVVjWmgycVdnRzNRZlR6TTU2aTl6ZEswYWpKS0F6MkxlVTZ0SlV6RFktRUJhcENDZEc3MEpIWThDMzdKRzZRXzlNNzhpOXplOTNtRUE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "0645277e0b1b3e80",
+   "title": "お祭り/東流西流 中城夕奈さん",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBybEJaSnBDTmpiMHNYbXhqM2FIRUJQQmtNcF9DNU5XWjdfM0MyZW5xeWlUV2FGRzlCVTFMcEVTSjlYRlZ6aVl4MUZPTkJpMmc2NHJhT3JmTDVsTl80d0thc1RNTEpTRFo3akE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "00217eee22a4848f",
+   "title": "ワークライフバランス/四季風（江）",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQnVtRUhzNFlDXzFiOXl3clNnTF95M0prbW01eEJUS0RIWmtmcmZGSFdrVWloZkQtb2lUUmZqZzNpejAweGVlVmVfQTNkRlhWTnA0QWNpYTBCMzJGY1FNN054V0djaFd5UWc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "d3824ffed58ae979",
+   "title": "山口市議会１１月３０日から",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kQ0lkWVJ3S3Y1emxzeVZmUzFIb1hfYlNZOWxkZlRvY3NWNkpkelg0VW05QW9MSzVxQWFaV255NWpmd3J4NFNZcVVWeFo3TndMMTVERVQwS2c5dHZrQ3Jsd2diSzlKT3NxcHc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "4d1164e2eb38dd0f",
+   "title": "富山湾のブリ来遊割合「高い」 富山県水産研調査（北國新聞社）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zWEVqTUJUdUpJdzl0WWFiVGVIUkFpSGxvVmZrZkFzakY0c1Zxd1JsaTJZeGZNem1DLWJhSVZPYVoxYV9TdG8yTHlIUU5QNHV3bFR4X1BuTEZsVlhJYWY3NjFHUVVxVjZUY2RYQmlNdDJOMVI4U3AydXhXeHphd2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-21T05:47+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 9.0,
+   "areas": [],
+   "categories": [
+    "migratory"
+   ],
+   "keywords": [
+    "ブリ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "b3c9c17ddf7fd59e",
+   "title": "取材メモプラス 生サンマの初水揚げ 記録的不漁で危機感",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lQi1RVjA4d2xzenR3bkkxZFFkVFo5YkhJRzl1NHU3cGxwSVJMVDhjQnk2U2hDTGQ0dXRybDB2RDFvMVNCTW9lYy02cw?oc=5",
+   "source": "47NEWS",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-21T04:59+09:00",
+   "via": [
+    "キーワード:サンマ・スルメイカ"
+   ],
+   "score": 24.0,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "market",
+    "environment"
+   ],
+   "keywords": [
+    "サンマ",
+    "水揚げ",
+    "不漁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "ed32161b18591ead",
+   "title": "大型クロマグロ枠25％増 水産庁 対立の韓国と合意",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTGNDTzRqNlBROHdGRFlySkVJRmd3Y1l4cUFmdVg3LXl0b2tVa0prclhHTVBSMEd4ekF2VW1icGxfdkdFSW04YnlIYzBxTTlXRWpPc2lRQkVrZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-21T04:00+09:00",
+   "via": [
+    "キーワード:水産政策"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "policy"
+   ],
+   "keywords": [
+    "マグロ",
+    "水産庁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "29c7aae349fbf68c",
+   "title": "マグロの漁獲枠 水産庁合意発表 大型魚25％拡大",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YODRGcDdMRFR5dklfOWhFeVhpVURuVkpOU296UVFXM3d5NFBXQTR2SVJQa19RQl9yNVpDT3luc2JMRWtIQnVTd1l6a1BVVW1TTkdGa0gtSjhTU1F1dHc?oc=5",
+   "source": "沖縄タイムス社",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-21T03:57+09:00",
+   "via": [
+    "キーワード:水産政策"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "policy"
+   ],
+   "keywords": [
+    "マグロ",
+    "水産庁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "4af8c58cdae5dbd2",
+   "title": "「ひみ寒ぶり」ついに出荷スタート 氷見漁港に威勢のいい声、「宣言」廃止で何が変わった？（富山テレビ）",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEFQbEkzTWtkWmZBeU5lV3pVUnhJWDhEMDZnTDBuelJuempvVzRuVTBRZ2NkajYzZUNhdTAwX19xZzNPcjRJU0h0dVpRVHo3UUFVSkNHNGp6aklCTXFVMHJlTUxDaW0xZFhsTkowWlJVWEhnaXFJY1hBR0ozTVBfRGMtanVnNzRqUU4zamV3?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T22:44+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "8c73201b8999c22a",
+   "title": "マグロ大型魚枠を25％拡大 日本の漁獲枠、主張通り決着 (共同通信)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3JDQlFhcUtzNE93R3VxTWdycU1YUF9jTTNnQndNREtxbklJM1JJSzFXRnVoTzlab1dkVC04VWdxUVVCcWRBN0JBcndsY2tkeldOY1EwUXN1eVFEdjN0TGVUSUpJY0dtVkN4RXlTa0d3TTFkV08wU2ZFSjZzTWU0MFYyVnRadVVhZnEyS1ln?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T19:19+09:00",
+   "via": [
+    "Yahoo!ニュース"
+   ],
+   "score": 9.0,
+   "areas": [],
+   "categories": [
+    "migratory"
+   ],
+   "keywords": [
+    "マグロ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "e3606a3ba6212fa9",
+   "title": "2度の災害から復活 大船渡・北日本水産の養殖アワビが「準大賞」受賞 ふるさと納税ごちそうアワード",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9saTlzcThmQ2ZHRk0ycERqWXdoUmRmTGNHUEU0enpwbTh4T1h2THRWUlNON2dqc3VSVld6YkhBT2sxRWNxeXdIZDdkaGxyenJsdTY1clhOVTY3VHZ4b3hINjVkSkhPVnMtcXJ2SV84VURKRUxXMThySWdFWi1fMU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T19:13+09:00",
+   "via": [
+    "Yahoo!ニュース",
+    "キーワード:アワビ・ウニ・密漁"
+   ],
+   "score": 50.5,
+   "areas": [
+    "iwate"
+   ],
+   "categories": [
+    "aquaculture",
+    "isone",
+    "market"
+   ],
+   "keywords": [
+    "大船渡",
+    "養殖",
+    "アワビ",
+    "ふるさと納税"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "f351c62618e7fc98",
+   "title": "サンマ水揚げ「深刻な不漁続く」「水揚げされたものも小ぶりが目立つ」宮城・気仙沼市（tbc東北放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQWRJTE9EUXV4ei1PN0dNbVR1cHpad0lmX1dmYzZmMEp5anR4bUh2bDJydFUzd1FUNGVEbnZkWG9IT1MtM0xwSXNMT292ajdJdUhRYXhVd1ktREFuSEh2dzNYangzRWRpNFlRMnpyN3JFMURlMldJbTQ0WHZ2d2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T18:38+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）",
+    "キーワード:サンマ・スルメイカ"
+   ],
+   "score": 31.5,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "migratory",
+    "market",
+    "environment"
+   ],
+   "keywords": [
+    "宮城",
+    "気仙沼",
+    "東北",
+    "サンマ",
+    "水揚げ",
+    "不漁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "c2d691b63c3b1d9c",
+   "title": "サンマ水揚げ「深刻な不漁続く」「水揚げされたものも小ぶりが目立つ」宮城・気仙沼市",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jRXNBUS1CMG44dXJBRHBUOUFYcGdoXzMwM19hMktrTEdvZGlWemxxSXB0a29RMDVRXzVtSlJCZGJYZzFoaUd1ODAyMTlXdW9DV2twWXE4Vmw4c1VsclBEQW1FRmNsMTQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T18:37+09:00",
+   "via": [
+    "キーワード:サンマ・スルメイカ",
+    "キーワード:海洋環境・貝毒"
+   ],
+   "score": 30.0,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "migratory",
+    "market",
+    "environment"
+   ],
+   "keywords": [
+    "宮城",
+    "気仙沼",
+    "サンマ",
+    "水揚げ",
+    "不漁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "4e5679bf13dc0411",
+   "title": "太平洋クロマグロ、日本漁獲枠25％増 韓台との配分協議決着",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01OFp1R202R1FpbktFTHpNS3VMQzR6YVp4RlpseVA4NzM0MlcyS0wtbmxFbmFhUWNCajdiM3BkMGFsd09hdjBXVVJSNW45amVjRnhiOUp0UUc0aFBzaFRmUThiNW52VEwxcXpoaHBuNmdtZG13?oc=5",
+   "source": "BigGo ファイナンス",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T18:35+09:00",
+   "via": [
+    "キーワード:水産政策"
+   ],
+   "score": 9.0,
+   "areas": [],
+   "categories": [
+    "migratory"
+   ],
+   "keywords": [
+    "マグロ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "5cce206148893ed5",
+   "title": "【事件】空き巣の疑い、下関署が２２歳男逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xVDVjNUVJRHF1aWtpRjFGcXRZYUVvRnphNWRCTG9hczBpZ3BoNU9RejkyazM2d19QbXpFOHZ1dWdJUk8zUjdoV3lGWTBRVjdPSUM4cTlxUTUzakNVY3ZvMzBkQzY3UElkaVE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T18:30+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "safety"
+   ],
+   "keywords": [
+    "逮捕"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "a2b393a3dd57cb48",
+   "title": "サンマが記録的な不漁 全国有数の水揚げ誇る宮城県で様々な影響が（khb東日本放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsQnVZaFhaS19vcGpjaGRmVl9zcUJyYzZNQWZsTUpUTmx0RTJEeEJUeVZZbV84ek9zblhUaE0teVhsLU5yZExvQjNwRjlCS2VRMFVMcU5WTjlJNURwQ0xVdXNOOVc5eVkwVF9Qb20zOGFOVk9kUkJUMnRyT29SR2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T18:27+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 28.5,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "migratory",
+    "market",
+    "environment"
+   ],
+   "keywords": [
+    "宮城",
+    "サンマ",
+    "水揚げ",
+    "不漁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "9485c140687cb44a",
+   "title": "日韓台のクロマグロ漁獲枠めぐる国際会議 25％増枠で合意（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03cTluekZsM1l1aU1Hci1ha3lEeDVVTFYwLS1PVnQ3RjZKUEpCa3I5WjVFVnFxdDFxNEhIS2NjVTkyRmRqamZLRHd1WW95T0ktV2dLV1ZnRWhUMUpiZWM2b3dsUjlFMTZUWjdtekRHVTdCX2l2Q3F1UUk5SHpTNjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T18:15+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 9.0,
+   "areas": [],
+   "categories": [
+    "migratory"
+   ],
+   "keywords": [
+    "マグロ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "b4427eb7f12471ae",
+   "title": "サンマが記録的な不漁 全国有数の水揚げ誇る宮城県で様々な影響が",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ELVNIbVVRekQ0YWQ1SGtnZXlfeUgyTk82R21DN2VxTU1LQ1FZQnRXOTZRQmdjU3lKRU9NTVhLdkc3MW1uR3pPNVBGWWJpa0k?oc=5",
+   "source": "KHB東日本放送",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T18:15+09:00",
+   "via": [
+    "キーワード:サンマ・スルメイカ"
+   ],
+   "score": 28.5,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "migratory",
+    "market",
+    "environment"
+   ],
+   "keywords": [
+    "宮城",
+    "サンマ",
+    "水揚げ",
+    "不漁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "14b021a1060ab2a5",
+   "title": "大型クロマグロ 日本の漁獲枠25％増枠で合意（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XOFp0eXFpQklfbFV3NUVTUjRwVU5PUWhxT0hsMXpMcE9tVGxVelFreTlYMHZGX2UycUNvWHJSSlhMN0trbDBSNmVlYmtiRGhUNnNFOU5FRklyY1JSb0dha2YwX091MXVrZ2ZMUFBmcTNLV1lrb0VuRTRXODVNTXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T18:07+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 9.0,
+   "areas": [],
+   "categories": [
+    "migratory"
+   ],
+   "keywords": [
+    "マグロ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "a94374594eae30c2",
+   "title": "地元漁業者が取り組むクルマエビの陸上養殖 今季初めての水揚げ 飼育方法の改良を重ね過去最高の出荷量に 秋田・男鹿市",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLeEF6WTBfcDFrRHBFTTUyblhxMGJyY2toUERRYlZfZ3R0UWpCTDJLTWkyd1Fza1kxLTZoVkxSaU0tenFVTzRFYVhSQjBoWGdPRUtRT1JHVWRNODVzelJGYmVDVnB6T0JEZmw3QW5MWEVDRmxyVTNsU0VaT19WQlk?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T17:51+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "aquaculture",
+    "market"
+   ],
+   "keywords": [
+    "養殖",
+    "水揚げ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "f8a6745cce3071c6",
+   "title": "「不思議な魚がいっぱいいる」 宮古市の小学生が魚市場を見学 重さ154kgの大物エイに驚きの声あげる 岩手（IBC岩手放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YM1F1VDFlUXdCeElpMVdsN0Rmdm1aNmQ4ZEo4OFhnd3JYYkw0ZHBucWNFbEczNVhXdlNlc2VzNDV5RWhEdl9ubkVPOTRidTNsTnlITm9VbnEyNUEtZmd3STZNYWxfZWRSV2ctVGlmNjEzSHBqRFBCOWh1UjBsZjg?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T17:33+09:00",
+   "via": [
+    "Yahoo!ニュース",
+    "キーワード:岩手 漁業"
+   ],
+   "score": 34.0,
+   "areas": [
+    "iwate"
+   ],
+   "categories": [
+    "market"
+   ],
+   "keywords": [
+    "岩手",
+    "宮古",
+    "魚市場"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "08d7513cba36c859",
+   "title": "「不思議な魚がいっぱいいる」 宮古市の小学生が魚市場を見学 重さ154kgの大物エイに驚きの声あげる 岩手",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53SnZrTFFfbndwNndUOTI2UVVwOGszakNOLUFlLVk1UHRBVXZISWdTRnp3WWFpREEzTkMxQm9pbDZDT1B2VU1NWG1MTUtDYjE1U3FZUHRJVEc2VW91cURJNkliTjZqejQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T17:32+09:00",
+   "via": [
+    "キーワード:岩手 漁業"
+   ],
+   "score": 34.0,
+   "areas": [
+    "iwate"
+   ],
+   "categories": [
+    "market"
+   ],
+   "keywords": [
+    "岩手",
+    "宮古",
+    "魚市場"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "9ff8bd3f1dffa97d",
+   "title": "【先行】下関署が風営法違反容疑で経営者の男を逮捕/禁止区域営業",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KZ2RyNlFqNHFhaEo2T1VSUEhITXZYV2toLXEtNnlxQjhneElKa3hpU1BYel9Vc3FSZHZkaGxZS3ZiWEZ6Rm5QOW9FMWowQ1ZaOUR3bUdIOWZxR2ZGd2hDeDM2cVF2cG1NWkE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T17:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "safety",
+    "labor"
+   ],
+   "keywords": [
+    "逮捕",
+    "経営"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "0f99943781f631d1",
+   "title": "【先行】新山口駅で「駅弁まつり」/全国各地の駅弁５０種類並ぶ、２２日まで",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LLWl6RHRxbUhva0VvMWM3aUQ0VFd4eG5pdk96SEtKazdGdlRlMG5rYm93cmUxMXJWYXRqNVBGM0hLdUNfQ2c2MlBGeVViWWpuNk5RMWlDS2pBNW9yUEdTTUdEQUNvUHBWN0E?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T17:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "f922d6cd2edb75cf",
+   "title": "愛媛の様々な魚や漁業知って「水産王国えひめ応援団長」さかなクンが中村知事と面会【愛媛】（テレビ愛媛）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IWS1CYUZkakQyY1JQajF4cFBadHMyb3VsWm1sbHFPVUxlS2FGczN5Q2xPNzNQdFpyUUVISEFHS2FxNWZvU1dxMHBuWjY0RS1nM1FlU1NtQS1nX2pwTXhRcW1wWDdJVXBmMU15UlBWbHdpeXc4LTNUOWV6ZElLWXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T16:50+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 7.5,
+   "areas": [],
+   "categories": [
+    "policy"
+   ],
+   "keywords": [
+    "知事"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "7c14fcae9196ef7d",
+   "title": "北海道、消える秋サケ 来遊数、２０年で６０００万→６８６万匹 海水温上昇が影響か、漁獲半減",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZaWVIaUVCY0xpc2xZU1RYbTA1X0ZpM1lwNmVvVmhzYWpkTEExcGxocDVNNlBmM2MzUWdjaXVoc2dHQi1JejZkT3l0dHRlbkRodVM5aHh5SXloY2pwU3Z5TElqQ2pnWE55Vl9LRmpJOXBlWXc0NjZMaU02eDZpQQ?oc=5",
+   "source": "朝日新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T16:30+09:00",
+   "via": [
+    "朝日新聞（水産全般）"
+   ],
+   "score": 21.0,
+   "areas": [],
+   "categories": [
+    "salmon",
+    "environment"
+   ],
+   "keywords": [
+    "秋サケ",
+    "サケ",
+    "海水温"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "5e934fcdb27c8da0",
+   "title": "秋の味覚サンマ初水揚げ９トン 例年より小ぶり 福島県いわき市小名浜港",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnAxMDdnbElJblZQNjBIZzR4RzVNRnJwTnVva2ZmS01vQnJYbjI5TGxub0RvV3psQy1GWWZudWR0amxsU3BVMk1hM3B6Z3dfcnp1MUc2U3FBZUNfMlJxLUppVFpndnI1aEp6Q2t1T05HY1lSYm51eGVlUGFxUl9GN1ZRZkxYX05RTl9hQ05B?oc=5",
+   "source": "日刊スポーツ",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T15:14+09:00",
+   "via": [
+    "キーワード:サンマ・スルメイカ"
+   ],
+   "score": 21.0,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "migratory",
+    "market"
+   ],
+   "keywords": [
+    "福島",
+    "サンマ",
+    "水揚げ"
+   ],
+   "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "9fe18baa374a4533",
+   "title": "「ひみ寒ぶり」今シーズンの出荷開始 氷見漁港活気づく（北日本放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTLU1IeWFLNFEyZzI1ZUJkMFQzS3l2ZU5rdTQxUDVJM2syTWE2ZzFGa1BHbzdFVzVkYkpTZzFzQnlXNmF2TW8xak5mTHdCVDhLMWFfTllZb043eTZPUk9PZUhvNzlXWDZxTnhfc25xOEFvVFhYQTFucHVQc0RfSVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T11:53+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "f2acf790a2d23c41",
+   "title": "富山湾に冬の訪れ「ひみ寒ぶり」1463本水揚げ!氷見漁港では初競り…今年から漁獲量に関わらず8キロ以上を認定する新ルールへと移行（チューリップテレビ）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScXFQb3h0dHhPcS1xYVpVanlqR0NnalhxTDBZTGtQSWtjeGJOSmEwNUEzbl9TSWU3REpPbmV1WjUxX29uZmFwTExpaURtdks3Mk8wQ1cwb2RYdXlxbEZlUktleFN5TnE0NzdEZ3V2TU9mT1pYVFRtRlIwSEc4V0E?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T11:30+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 15.0,
+   "areas": [],
+   "categories": [
+    "market",
+    "environment"
+   ],
+   "keywords": [
+    "水揚げ",
+    "漁獲量"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "e27a3214252841be",
+   "title": "養殖業は輸出総量の62％を占めている。",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUDV3UnRmQmVzWmd5UTM0NjBGV1RBRWM1bkdLS1Q0MG5yZVpPNGNGNGpiWFhZSURVcEZzbWlTN2laN2xxZERpalNwMG41QkwzOHotX2dKUnNGV1JETHlrU3R1SjJJbHE4VEhmSndDbEU3TEh2YUdfQkU5WWx4dW1NYlhUQXB5Zw?oc=5",
+   "source": "Vietnam.vn",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T10:59+09:00",
+   "via": [
+    "キーワード:処理水・輸出"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "aquaculture",
+    "market"
+   ],
+   "keywords": [
+    "養殖",
+    "輸出"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "54c5b14b3b41b606",
+   "title": "イカから半導体・BTSまで…韓国の輸出額1兆ドル達成を支えた10大開拓者（2）",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qeXl5aGtYTnJuaG5DSGhLOHNvdWVZdU83WUhnLWR0SEpzdGV2a3U5UVhMY0J3cHBJdGQ5Mjd4dkNKYVM5aEd6Z3lEdDZXSGxjRHNUS1o3TE9sUVBaZDVMREIwcURPRHMxeFpzedIBbEFVX3lxTE9qeXl5aGtYTnJuaG5DSGhLOHNvdWVZdU83WUhnLWR0SEpzdGV2a3U5UVhMY0J3cHBJdGQ5Mjd4dkNKYVM5aEd6Z3lEdDZXSGxjRHNUS1o3TE9sUVBaZDVMREIwcURPRHMxeFpzeQ?oc=5",
+   "source": "Infoseek",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T10:48+09:00",
+   "via": [
+    "キーワード:処理水・輸出"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "market"
+   ],
+   "keywords": [
+    "イカ",
+    "輸出"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "898ac8aaf1f7dc39",
+   "title": "イカから半導体・BTSまで…韓国の輸出額1兆ドル達成を支えた10大開拓者（1）",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tdXBHVlZYbnJZbmhoNzFQU28ySUZ4Wmt6VlY5d2daeVFaZ0RTUUhJdHNyeUZQQXc3SW1tN3ZFMXVJVEkxZzVVVVZDRlB4UVRIbkVybksxSVE0cVNpaFAzMDFBYmp4WGRWcHpiRtIBbEFVX3lxTE5tdXBHVlZYbnJZbmhoNzFQU28ySUZ4Wmt6VlY5d2daeVFaZ0RTUUhJdHNyeUZQQXc3SW1tN3ZFMXVJVEkxZzVVVVZDRlB4UVRIbkVybksxSVE0cVNpaFAzMDFBYmp4WGRWcHpiRg?oc=5",
+   "source": "Infoseek",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T10:46+09:00",
+   "via": [
+    "キーワード:処理水・輸出"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "market"
+   ],
+   "keywords": [
+    "イカ",
+    "輸出"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "03a5aa0f227765ff",
+   "title": "山口県内の交通事故発生状況 2026年11月19日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zMk9Ka0YxN091VFNGajF5bHNHNTdNTWVIb3BMQUFwSG1Zc0pTdDNMVm9PaVFVZHFma21vcUFaelUyQkNtRC1LcWF2enhXSktSVzRUb01HdHVNbmFJSUIxNmNpNU93UkRxWFE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T10:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "safety"
+   ],
+   "keywords": [
+    "事故"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "4cd9a48d6dcbbd28",
+   "title": "21、22日「釜石まんぷくフェス」 焼きサンマやかき汁の振る舞い、釜石ラーメンの早食いも",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FY0czR1V2cFdST3FKR3ZIY1g2NjRucDRIVmpUUnZwRkltRGxTczVhTWZQbWF3MjViRmZKNEUwRzhBNHJJeXg4c0s5NmtJYkViLUcwU2RlclZCaDV2eU9jNHp3?oc=5",
+   "source": "岩手日報",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T09:30+09:00",
+   "via": [
+    "キーワード:アワビ・ウニ・密漁",
+    "キーワード:岩手 漁業",
+    "岩手日報"
+   ],
+   "score": 34.0,
+   "areas": [
+    "iwate"
+   ],
+   "categories": [
+    "migratory"
+   ],
+   "keywords": [
+    "釜石",
+    "サンマ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "df767961ed1a180d",
+   "title": "南三陸町でイセエビ水揚げ激減",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBISFpBRTVkMExNZEJ4MnJoQl85UFU5b3JLX01ySnRTOVN3dHRmaFE3d2ZxdzJoOHpyUTlVVUJCbTBTV1d6M1RPZzAxUDFmdG13X2ZKemhiVDI?oc=5",
+   "source": "株式会社 三陸新報社",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T09:07+09:00",
+   "via": [
+    "キーワード:三陸 漁業",
+    "キーワード:海洋環境・貝毒"
+   ],
+   "score": 32.5,
+   "areas": [
+    "iwate"
+   ],
+   "categories": [
+    "market"
+   ],
+   "keywords": [
+    "三陸",
+    "水揚げ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "3b0ab4bbb4e765ed",
+   "title": "サンマ大不漁のまま切り上げする船も",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SZDNDc2x6SGZtVFJLTm1KMUVnd1JXbFdtbVJpbTI3ODkyY2FRUjRzeDVpTS1nZ0RjalNCZmk4Y0ZsVGxMRHktc2lBSWtXd0F0SzFWRm1vMjI?oc=5",
+   "source": "株式会社 三陸新報社",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T09:07+09:00",
+   "via": [
+    "キーワード:サンマ・スルメイカ",
+    "キーワード:三陸 漁業"
+   ],
+   "score": 16.5,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "environment"
+   ],
+   "keywords": [
+    "サンマ",
+    "不漁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "6cbaff372afc5a2a",
+   "title": "養殖カキ被害深刻　２年連続の大量死　全海域で８割以上死滅　県議会で生産者への支援を求める声　広島",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GOTZOMUdwQUlxdU9EWlBmN0h0a09OZ2FMeDI4VjgzM0MzdDlCSFluMVRqcFA2WEkxWm12ay1LTDhPS0hIT3BaVHFzZXpBMTNuQm5wN1NOeDFfV3VfaUdzYlpJck80STBJeHl0dtIBckFVX3lxTE1MTm5ZSkV1Si00SDFqaHcyR2NwOEJkck9nZFNlRFkzZHVXSWFVeHZtb1hQRmxRVkUyWTQ2bDZFU1FhQVN5OU4xdTgyaUlHM2lmcTFrS1hDc0xJcXh2OTJPTXNPNVFHdGJNemhMalhjTkNYZw?oc=5",
+   "source": "ｄメニューニュース",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-20T08:00+09:00",
+   "via": [
+    "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）"
+   ],
+   "score": 18.0,
+   "areas": [],
+   "categories": [
+    "aquaculture",
+    "policy"
+   ],
+   "keywords": [
+    "養殖",
+    "カキ",
+    "県議会"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
   {
    "id": "b16814c983c11c64",
    "title": "子どもの食支援にソデイカ60キロ 糸満漁協が市へ寄贈 地元の海産物を提供（沖縄タイムス）",
@@ -205,6 +1151,23 @@
    "first_seen": "2026-11-20T07:34+09:00"
   },
   {
+   "id": "6bd2e4eb7464ba00",
+   "title": "【山口県】今日のイベント 2026年11月20日（金）/駅弁まつり（山口市）など",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53MFVZVjVldVV6SVZQM0RrTjZvNm15U1B0QUQ5dkMzNXdON0RvWXlDY25lNHBUT3pwcmFwUXhTQ1haUGZ1QzdGTmYzbENuMzVTazhiaDktV2tQSVFPRnhLeWhvT21KeU84a2c?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
    "id": "e3faa7586e3c8cdd",
    "title": "マインドフルネス健康法テーマに/周南市で１１月２２日、臨床心理士が講演",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBdUdhcXdrVmlWT05HbFJBOHFhV241WHlaRDRRaVZTb0dVV1o4MFNjbHFiLXp6bERiMDByYWItazZkejJmVTRYWGgxLVU4UlBmdUN3eU9DQm1WdjRGT1J1WFptZ0Z5V21yQ2c?oc=5",
@@ -223,7 +1186,7 @@
   },
   {
    "id": "842c20181dc5fd84",
-   "title": "「おもし路地ＳＵＭＭＩＴ」下関市・茶山通りで１１月２２、２３日/トークセッション、まち歩きなど",
+   "title": "「おもし路地ＳＵＭＭＩＴ」下関市・茶山通りで１１月２２、２３日 トークセッション、まち歩きなど",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTZXZKdW9ySG5VUDlONnFaclY1T3lqUVd3THZDTk1SektqeFpfNHhtMFBXLU44cC1tdmFzR0FIaGdMdEluNUhxc1NqZThVRHJpbnBYZzRBSkVRUU8xdURkZkd6aUcxc0k2X1E?oc=5",
    "source": "みなと新聞",
    "major": true,
@@ -240,7 +1203,7 @@
   },
   {
    "id": "d2c8b65c80684920",
-   "title": "地元企業の課題解決へ新興４０社が技術紹介/下関アドベンチャーサミット",
+   "title": "地元企業の課題解決へ新興４０社が技術紹介 下関アドベンチャーサミット",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uUEQ2dUZ0UkZ2RUpBdUw5UGRLT3RFOU1pdE1lUFlSVVNLbUdYc2pBQVhlOVppTURid3R5MHZiM21WTjJ1UmI2b21FNGF4MWgzS1Z0aFVQeHo0bENOTHdsN0hXZVczU0hmNXc?oc=5",
    "source": "みなと新聞",
    "major": true,
@@ -275,6 +1238,253 @@
     "知事"
    ],
    "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
+   "id": "d7f59178f8a0607b",
+   "title": "市民の懐には冷たい 四季風（宇）",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sT3JvUEhnUHJWYWwtaEZxYjF3S3RNWm1jNnZWVTkxTHNONFBmR05zZFotRU1kZWhjZjRzd3g2MG5INGlBZ0xkaG1kdkFZZGpzaUFIU1I5Sk9NWDVWOUM1OVh4aURVRkxnWEE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "6c7780e78a2639d0",
+   "title": "商工会議所だより",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5U1VwNVhBQjIyMm9fbzJqTVpoZEZhQ3VLSmFNdk5nVTBsSHNaa3drUk1YSFRaNU50WGdScTBXWFdYQWswbUdoWXZFajhsRnNkRjlKM0tpdTVSSEdhTEdhYXV3T1dHSVRJblE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "7b1f6dbc21108a4d",
+   "title": "【山口県】首長の予定 2026年11月20日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jcWJUNHA1TjRkeFVSeW9mbHJKS2xCc3pWQ1ZYc3FOR1djdDFQZ21LbEwydktxaGJRaW9UYlUxOTlabEptVjBiVkp0WjRVZTZsazhiNmhTT05MbkZPSXJ0czQ5ZmFnakhqbUE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "4980b4b9bfa9b836",
+   "title": "【事件】下関市の８０代女性、８７０万円と金７２０万円相当被害 ＳＮＳ型投資詐欺",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tRDYtRnAwWlhqQnBDN1JPZXBHRWJHOFBtNG5fa1hTbUJfSDV1UlFtSUQ3Yl8xMWcySTRqN0dJY1lkT3VwbjhCVEREMGMxdWxWZVYyclhrRkIxdEM5QmZWcWRpOERybmY0Nnc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "8d0b6cc06c221e56",
+   "title": "山陽小野田市議会臨時会、補正可決し閉会",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSGR3aWh3ZklCSDZqZUJMcjU2M1NMbVZ0UGp1UUxPdE9JZklObDB0UnBPWWh0YXlKNUpYeXd5Tnl6SlNWSzQ5YXBYV2xHMEl4WXNBWEVIUWd6b1BrUDVaeDExaHN3NWhMRHc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "bae2a70c22b535a8",
+   "title": "私の原点とこれから 東流西流 大倉福恵さん",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TR204dUtfOTZtcThMQlJYOXBPZ1VFOUJlVXNOY19Ec0t6THFnbTluTkxtazJkTzdzc2IzUDlLSEpFaTZudk9GUlcwUlNpeURfaEFhSU0tTFctdnJ6ZzkyLWcybzFIakRaQ0E?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "c421313264f33823",
+   "title": "【事故】女性から現金詐取、熊本の５５歳再逮捕 下関署",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iNVZzQTNUOW10blFVUWlCSnZGXzlGSElsdm5yOUtpWXBWbXN0aUJSZW5BLUJ1V3pUd3FnR29TWVlJelItMzk4TnI1bU0wY05RZm1FVFpKQUw3QUhOcGNQajV4NDN1VE1Pd0E?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 12.0,
+   "areas": [],
+   "categories": [
+    "safety"
+   ],
+   "keywords": [
+    "事故",
+    "逮捕"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "a4e593164d4e3029",
+   "title": "きらきらした世界 東流西流 吉谷悠莉さん",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XSmY5ajkyYXhYUzNVRWZBSkw1M2owNHRsZzRtc0JhUC0wYVlpMHh6bDNXN3V4Xzd1Z1htbjNYVHpseXRjc05PYTNQY3NaRTZNYWRMV1hLNDY4QWgyeVVPN1RkNWNUd2VsTFE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "820f85bf4f313701",
+   "title": "【事件】下関市の３０代男性、暗号資産１２９万５千円相当被害 ＳＮＳ型投資詐欺",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FUTIxcy1iRlNIc2hoTjJDekdlVGdZb1loZXNvY28zTnBiMFdiaHMzZmowel91aFNmSkFEZ0NIMlRsZUl1aTVzNEphSDdZWGZFZVIySDV1OUkwdWsxVnBUVTFpQkRNREVsN3c?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "df25f217e07431b7",
+   "title": "首相、ロ拘束記者解放要求/ＪＴ接収撤回も、大統領に",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zMzRCd21vRHd4SGNxQ2FRYUdrRUNEZHlSbUEwVlNSLUtfcEk3VjFiNmxqTTVtWjZoNVBvYW9Kak0tODRZeWgxN21ZeWllSUlrR1ktMHR4ZDRzUnY5UVdwbzdNZ0MyMnRyeUE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "57868bb8d8356ab4",
+   "title": "情報あっちこっち/山口県内のイベント",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94amRfQUJGYk5TNmFLY3hnQkZTa1E5MTdjQlJDbFFGeWR0ODJ3cm9DdGVhVU1lQndhZnRxUkVNNXhaY3hxQlI5WVFvczBJTjlKQ0RLOEtRN3hQNFZISFlYNjMxSkI3ZFY0dEE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "bba3979559a3d423",
+   "title": "レノファミマに！？/山口市の維新みらいふ最寄り店 気迫の３２選手お出迎え",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZnVvYmpxV2FSZC1ZVE9GQ0FkWF9UNE1xWjNzd1N6OUNOb05vOXlhdzV1aWplYmZtWGg5R3NVcWV1V0hrVFRyUjlGRUZCalFnUFJMM2M4VHY0VGJmRnUwWDBCWlczWFhsU0E?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "d5bb6e380dc38c88",
+   "title": "【事故】大型トレーラー事故 最大９時間通行止め 美祢市の中国道上下線",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PRGRjRUtPaHBlSmt5SVZGUTN5MGgxY0Z0NTU1QWNxU21MR0txbnhRbmVsNF9DdkRZWjR6LTkzT01HaWh6YkNlbzkxLVJsci1vcDJSTVVYRGlMTlYxdWpaU3JTUXN6TVZtc1E?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "safety"
+   ],
+   "keywords": [
+    "事故"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "e3e38c74fd01d4c4",
+   "title": "自動車スーパーＧＴ最終戦８位/周南市のインギング 今季６位で終了",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iQ09sT001RjNLMDQ2NkxMX0ltQVBfZ2F2bXpwS2NhX3A4SXlTRkZIZ1JhbHU5MjBfSG1pMU50bGJCTFUteG9PZ0NISzFxRVA1TG5wRGRTdVIzdnpJTko4QVhOVjhqUEV2SXc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-20T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "541da2e045e8b822",
@@ -381,7 +1591,9 @@
    "summary": "",
    "published": "2026-11-19T21:03+09:00",
    "via": [
-    "キーワード:岩手 漁業"
+    "キーワード:三陸 漁業",
+    "キーワード:岩手 漁業",
+    "キーワード:県漁連・漁協"
    ],
    "score": 73.0,
    "areas": [
@@ -428,6 +1640,28 @@
     "不漁"
    ],
    "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
+   "id": "2dc1e7bb469dcdd5",
+   "title": "広島・養殖カキの被害が拡大　県が生産者への支援を検討",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14dmxkMnZUY3lIZnFsQ3hkeWZsdUhJRF9LVm1uRlFtZ014R2N0UElMRkhLZTk3RW9laEFXZ1liekRXRWNXMGh2dksycXBuWkVWb2FvVUp6aHlXdjEzSDktZUpTLUNBQ1JvQ0FNRE1pSVBTQUFiaEpuUldkTdIBgAFBVV95cUxQNGswRElHWWZ6Y1E4d0xwZjhFV2RuOUJ3NHYyS3BpV05BblBVbDVKeUs2WUZiVXo5OEdTNktyZlZuY3dtc2sxZFlsRlo2NjZPcUVSd3pMVzNVVWRkdDFjUWsxNmx5bDIxZ2RpbkdfME9pZmstbVkybzdKUV9fUVRKcw?oc=5",
+   "source": "ｄメニューニュース",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-19T19:52+09:00",
+   "via": [
+    "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "aquaculture"
+   ],
+   "keywords": [
+    "養殖",
+    "カキ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "8741dd9b2529288a",
@@ -548,7 +1782,7 @@
   },
   {
    "id": "ed805ed012f7e094",
-   "title": "【デジタル限定、写真記事】全国高校サッカー選手権山口県大会決勝 高川学園が１―０で西京に勝利/８年連続３２回目の優勝",
+   "title": "【デジタル限定、写真記事】全国高校サッカー選手権山口県大会決勝 高川学園が１―０で西京に勝利 ８年連続３２回目の優勝",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yRjhORWFBRHRlUGt5Qm8yZkY3aTJHazBmWlI3N1NSeTlJNzl2UEw4ZGxwYVFPVFRkSER2S0FnVXZjTjJsZXlTcTRhekNwVGtGMDN0akpfTURsbFkwcjJUcjF3VE5INnhHVVE?oc=5",
    "source": "みなと新聞",
    "major": true,
@@ -562,6 +1796,31 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
+   "id": "db05b48155efb5a3",
+   "title": "「サステナブルな宮城の漁業の第一歩に」東松島市出身の大学生が持続可能なカキ養殖へ向けた提言書提出",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pVUtmVVc1b0dQdUtkTFBXMkdGcDd1amw2c2tiS2p0cEJVQWRRZXFwNFpnZER5ajIwUFd4Q0Ryck81UG1MNDBiRWhIT0F2TUdlZ3FFWl9vaWZQa29SdEw3bUZZVVFPcHB5OS0zbnc4QdIBdEFVX3lxTE9YRXZkUzllT0p6Tl9sYkJNcmtYTG44VnlxT1JwS2FLT0c5ZndnNkk3VmlRaTAyUUN5dlU3NS1EaGJLTHlCakppOHpfa2FoWktpbFFEbllDOGYwWmt6NFVJM0o1WkVQQUhMb09LRm4zcENGV3Na?oc=5",
+   "source": "ｄメニューニュース",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-19T17:36+09:00",
+   "via": [
+    "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）"
+   ],
+   "score": 15.0,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "aquaculture"
+   ],
+   "keywords": [
+    "宮城",
+    "養殖",
+    "カキ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "e7942352808510df",
@@ -608,9 +1867,43 @@
    "first_seen": "2026-11-20T07:34+09:00"
   },
   {
+   "id": "42d8aaa7e02d0fd3",
+   "title": "【先行】下関８０代女性が投資詐欺被害/現金８７０万円と金地金７２０万円相当",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcVhmV3gyUFppa21JTjBVZ2VNZTZvZjVJNm43RmRLYk5wVWhIODYxNG8yTV8tWEhNaGNleC1raG5zRmRFOVlnelZWalpQY0FvaWEyWVRHcHFCRGlWamNkNTJjVS1oVVBzQ2c?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-19T17:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "b0be627e82b11200",
+   "title": "白鶴酒造は、魚食文化の発展を目指し全国漁青連主催の消費者イベント「漁師ナイト vol.2」に開催協力！",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13QWZvMEdOOHhzbkt5cTdBS09vc0pfcHg4Z095ZGhud3BuZkRXcVBUeDRGaFFHZlVnV21NNXhXZ1hhaVdocXNOV0lyYURmblN0Q25jeHRGellXLWo1ckxibTJQbEU2UWxjZ0JDMlB4Rk5jXzFV?oc=5",
+   "source": "Excite エキサイト",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-19T16:45+09:00",
+   "via": [
+    "キーワード:県漁連・漁協"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
    "id": "c797ad12ac6df223",
    "title": "海洋環境の変化でピンチの水産加工業を救え！…不漁に悩む漁港に漁獲量の多い港から「広域輸送」、水産庁が補助へ",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXpacG5sS0VNZkw4MnAzVDVGZHFTMnlWME1GTFItUHMzbTVKZkQyZm1XVnV5dVY5aDBZOGstTHZJa0w4U1F0UUFNczlFYWx0WjItejV3ZTJ1TllXazJOWV9HUGhGWU9lMExfOUtBUUlkWC1IWVIxWFcwcnlXLVdCSFg3YWpKOEhh?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81ak8ydjloc1VXbENUSWtvRUlianB4RWhxRkkxSzlmVWprV3VTOU5EMm82M1Z1bEIybkRybmV6LUM4dWYwWHN4M0pLMVRKdGZJeUVHYWxJbmNqal9IYUZ3TFBXa3dzSWRzTmJoSlpwRllXTHd3MEtESGxRTGhKQ28?oc=5",
    "source": "Yahoo!ニュース",
    "major": true,
    "summary": "",
@@ -636,6 +1929,23 @@
     "漁獲量"
    ],
    "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
+   "id": "287c06ba23d2cbdd",
+   "title": "【交通】ＪＲ山陽線 イノシシはね計４本に遅れ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81YnpTRlR3Szl3UlBKN1ZmTEplbURrQ1Uxc2pDVWN0QXpMaEJnWDJ1WjBBYVU0OG9ncnRyT2dDdEs3bm42aHBpQ19QeTJzMzIzamZYaXk0NWFlSEhfTDJqOVdLbkR0aWxMckE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-19T15:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "a32f75fdfafd0b09",
@@ -720,6 +2030,27 @@
    "first_seen": "2026-11-20T07:34+09:00"
   },
   {
+   "id": "49170263bb45ca6b",
+   "title": "山口県内の交通事故発生状況 2026年11月18日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MdkFZd1hJdEt6SnlrT2JrWXgtNVk5RkZUWDlldE8yaDE2OUZQcEtCM1U1UWxndlZNMVJETDlnTkFfTmFtUy05Tkw1TUM0S1N1a2w0TC1zanlqV1BsYmdncVRBVnZKVGVDRVE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-19T10:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "safety"
+   ],
+   "keywords": [
+    "事故"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
    "id": "a36b9059caf88c7f",
    "title": "【中村調理製菓専門学校】国内最大の洋菓子コンテストで最高賞の金賞含む、全国最多の受賞者数！「2026ジャパン・ケーキショー東京」で製菓コースの学生・教員19名入賞！",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kaFpUMV93dUxGUU5kd0pnajNWNDktazJqbnh1OVlyR1BkdVdOdmUxMktXT2o5RTVYRGlfUEZTQU9KZWJNcW90b3Z3SjBoc3ZJQWF4YkpZZVRoYk9TUFg5a0NfeGxEb0taNlNpTmNncXhkOElnQXNj?oc=5",
@@ -792,9 +2123,9 @@
    "first_seen": "2026-11-20T07:34+09:00"
   },
   {
-   "id": "c6ab5f8156fe59cf",
-   "title": "【山口県】今日のイベント 2026年11月19日（木）/下関芸文・燦めき美術展（下関市）、渡辺おさむ展ＯＲＩＧＩＮ（周南市）など開催中",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YdDJTN0NXeVh5TWdWZ1drU3I1LXVwa1NJMnFxX04yYzdOdlc4cnh2bDBBNDNjbC1hZ3g1TWR5TFFrR09kR2pYTFZrNEo2WVMtY25GMjNWYWQyd0Vmd080aWJRQ0FSLVZSUHc?oc=5",
+   "id": "13fb6880882e1989",
+   "title": "人権擁護活動に尽力した中山さん（周南市）、入江さん（下関市）法務大臣表彰/山口地方法務局発表",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dk5NNExrUkF2Q2NKM3RUZ3RuVVFEZ3pkVUtmcnpvRmRFMmNRSEtIcVNRWHdiOHBGS2FwTlJwYjdXdUQzcDN5Sl9FdDRpSXFtZ2RMV1dHV000Um1iX3V5Vkh1aTg0ZG0xcWc?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -809,9 +2140,77 @@
    "first_seen": "2026-11-19T07:38+09:00"
   },
   {
-   "id": "13fb6880882e1989",
-   "title": "人権擁護活動に尽力した中山さん（周南市）、入江さん（下関市）法務大臣表彰/山口地方法務局発表",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dk5NNExrUkF2Q2NKM3RUZ3RuVVFEZ3pkVUtmcnpvRmRFMmNRSEtIcVNRWHdiOHBGS2FwTlJwYjdXdUQzcDN5Sl9FdDRpSXFtZ2RMV1dHV000Um1iX3V5Vkh1aTg0ZG0xcWc?oc=5",
+   "id": "45e80b07b6e54632",
+   "title": "アニメじゃないこの世界で/四季風（浅）",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HSUZSdlpPdEt3dUhzamNjRzNEUEVJaGItNVptNWFXNFdUbDFEMHNGSF94VTFncE8wMnhqUjExTWkxLW5pb0Z6cTFWcDNfa0tmdE9GblZKdWdlQ3NxaDY5VGxSTVlzbkp3SkE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-19T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "a1ca8a9ad49b755e",
+   "title": "山口県内の倒産件数、負債総額とも２カ月ぶり前年下回る/１０月、帝国データバンク山口支店調べ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rT3FURzd1XzRXaWhLQlpETTdHMDFiYld6Z0FFcGhiSDBDX3FfTmFZUWdEZmEtYVhydkg1NUdNM3FuQWliWWJFWFM2Tkg0MWpqaTZZOHR6QjYta2ZPWm5zQnQ3cDFpaGlnYWc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-19T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "b03c3fd808940d92",
+   "title": "「人に伝わる講習」心構え伝授/柳井署・西村指導監 ３０年の安全教室経験踏まえ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RRGt3SkhjMUl2Ukl2UzM5dmh4QVE4b0w4dXBxUEI2UEYwZ0xEVkRXclA3OVlUTWx1OFZaSTFfTEdhY2xJVjJmbzBVWWdGcDRZZFp4NWt4M19Ta1hMa0lWM1pNTTF4WmFhZHc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-19T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "87519515fa7ad0e2",
+   "title": "細野勇策、Ｖなら年間王者の可能性/ダンロップゴルフきょう開幕",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zX1cyUDc1M3JnTUo4NE5ZZThjdEMtRkVrc28wSWNsYUN2Skd4TDh4MTJTaU5hMHdyOWgtaHNoNUQwUXBjam9RNUUxSUhkR08yUUcxRFV6LVFmVjF2TTFNbHBWNlV1N3pHaFE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-19T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "c6ab5f8156fe59cf",
+   "title": "【山口県】今日のイベント 2026年11月19日（木）/下関芸文・燦めき美術展（下関市）、渡辺おさむ展ＯＲＩＧＩＮ（周南市）など開催中",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YdDJTN0NXeVh5TWdWZ1drU3I1LXVwa1NJMnFxX04yYzdOdlc4cnh2bDBBNDNjbC1hZ3g1TWR5TFFrR09kR2pYTFZrNEo2WVMtY25GMjNWYWQyd0Vmd080aWJRQ0FSLVZSUHc?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -881,23 +2280,6 @@
    "first_seen": "2026-11-19T07:38+09:00"
   },
   {
-   "id": "45e80b07b6e54632",
-   "title": "アニメじゃないこの世界で/四季風（浅）",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HSUZSdlpPdEt3dUhzamNjRzNEUEVJaGItNVptNWFXNFdUbDFEMHNGSF94VTFncE8wMnhqUjExTWkxLW5pb0Z6cTFWcDNfa0tmdE9GblZKdWdlQ3NxaDY5VGxSTVlzbkp3SkE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-19T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
    "id": "1f60a436d2d8f865",
    "title": "夜中の遊び/東流西流 池田繁治さん",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VQk51dUhBenBMeFdab24yNXZXM2ZRaUNtM2dhVE1HM3FSbEZTZFpRdGRWVGdhck12Yk56VEFOQlNaZXVlT0JXOVA4dTdHVWxTRjBDeFVSN0dwNi1NUGtRSmFlNHJtN0FuYkE?oc=5",
@@ -918,40 +2300,6 @@
    "id": "bd8336d62697fdc3",
    "title": "１３番手の生存戦略/東流西流 森脇暉さん",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtUGxtR0R2ejAtc01RNUNDVnR0TU9VNWo2NFoxM1FwZnZDcEc4RTgzaWhYX2RIRm52MUpIWWxkWWd6bjk4TUE2ZVNyMFV5T0RqZlRRSnhMeTFEMWRnLUJNVjRGOF9PMTFOOVE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-19T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
-   "id": "a1ca8a9ad49b755e",
-   "title": "山口県内の倒産件数、負債総額とも２カ月ぶり前年下回る/１０月、帝国データバンク山口支店調べ",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rT3FURzd1XzRXaWhLQlpETTdHMDFiYld6Z0FFcGhiSDBDX3FfTmFZUWdEZmEtYVhydkg1NUdNM3FuQWliWWJFWFM2Tkg0MWpqaTZZOHR6QjYta2ZPWm5zQnQ3cDFpaGlnYWc?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-19T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
-   "id": "87519515fa7ad0e2",
-   "title": "細野勇策、Ｖなら年間王者の可能性/ダンロップゴルフきょう開幕",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zX1cyUDc1M3JnTUo4NE5ZZThjdEMtRkVrc28wSWNsYUN2Skd4TDh4MTJTaU5hMHdyOWgtaHNoNUQwUXBjam9RNUUxSUhkR08yUUcxRFV6LVFmVjF2TTFNbHBWNlV1N3pHaFE?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -1350,6 +2698,29 @@
    "first_seen": "2026-11-19T07:38+09:00"
   },
   {
+   "id": "5a3d6b1ae7aa4d30",
+   "title": "【倒産】昭和４４年設立の老舗観光ホテルが事業停止・自己破産申請へ 負債総額約４億２０００万円 一部ファンから高い評価得る硫黄泉・大間マグロ・あんこう・アワビなど海産物人気の下風呂観光ホテル",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tT3FiLTJLV1BCb3hhYUUtY3FyV0lQd3NNYzl2bS1GYUJJYWJ1TFFTeUVneHA2dG9nT091UGlWU05sZVNvc1BTeXlHNHJ6b0FYclFKcjZwbw?oc=5",
+   "source": "TBS NEWS DIG",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-18T10:45+09:00",
+   "via": [
+    "キーワード:アワビ・ウニ・密漁"
+   ],
+   "score": 18.0,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "isone"
+   ],
+   "keywords": [
+    "マグロ",
+    "アワビ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
    "id": "82aa5cce5287304c",
    "title": "福島県内サケ稚魚放流…危機 木戸川漁協は「水揚げ、今季は壊滅的」、他県からの確保も難しく（福島民友新聞）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iNkQ5VER1WWg5Z2NxMWlMRmh2WkdTQVA2ZXRXX0tkSGhCMkFlRzg5RDFlaW9hakVoNzlOWUNjNUpVT1E2WEE2c1gzX1pwdnhHLTJhTHV1OXVDbkgxeno3QkpYOXp6VE5mSW9GWi0tTWJ6NXIzYWJBNDZzV0o4eG8?oc=5",
@@ -1422,6 +2793,32 @@
    "first_seen": "2026-11-19T07:38+09:00"
   },
   {
+   "id": "0cef625b1854dd64",
+   "title": "県内サケ稚魚放流…危機　木戸川漁協は「水揚げ、今季は壊滅的」、他県からの確保も難しく",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazZyVHl3cjRtc3Q2WFZZSXFZMFc3N0Y1OVoxNTQ3MEVLTE8tMDBoM01NN0VUQUczZVZNS3dkdHoyTk9zN0UwVGQ0amRMOVVnWmJfbHU2NW5FOTE5dVpuZ3RQaTlad1RRRGhvTkJjVGJ3LWFQU25lTjN2Tlp0ZExzV0gyWi1YakRySlU4cGV0MVHSAYwBQVVfeXFMUF8wekhULUprc1ZvbE9haWJyV2ZWdjFhblZxa21oYTIyUXJjdmxZYW9IbHNsVTc2ajBDX0VtY3ZVNlIxUEpxaDJSV1dvNEFvM0RBQkZPZzNhQ1hqRFNabW9qeS04OHhzNS1wOG8tMm5XTFY3bk5DY21KeENrRk5TM1BXZjItbmpza0wySzA?oc=5",
+   "source": "ｄメニューニュース",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-18T09:30+09:00",
+   "via": [
+    "キーワード:秋サケ"
+   ],
+   "score": 39.0,
+   "areas": [],
+   "categories": [
+    "org",
+    "salmon",
+    "market"
+   ],
+   "keywords": [
+    "漁協",
+    "サケ",
+    "稚魚",
+    "水揚げ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
    "id": "829618283f8f1323",
    "title": "「昨年より被害大か」 広島の養殖カキ、全海域で8割以上死滅（毎日新聞）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGLUNFVDk3TXItMUZjWEJaZUt3XzMzcldqVzlTNFdOTUg5dkE2UDFlSFJ4OEZ1UzVPVVBTS2U0MVR3WXZkQld5TkFBazRaVVJYT0g2WnQ4bWp4dTlnekxQUHNQR0F4R0lLMFduVkluQlBFcFZ1cmZYVjBya2lEd3c?oc=5",
@@ -1442,6 +2839,28 @@
     "カキ"
    ],
    "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
+   "id": "d0f8d16907ee5643",
+   "title": "「昨年より被害大か」 広島の養殖カキ、全海域で8割以上死滅",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yZWZwdXpKTTdZaDc2S1RWQjJVZG9SUFpGZk04SklJZlppTW1xaGMtYU9CUFd1Nk5BYkV0MF9rdzlKeldXTWpycnBGWHpnaWpOQ3BJZndjYXVZSGhsblp4UWhuemhwaEVY?oc=5",
+   "source": "毎日新聞",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-18T08:45+09:00",
+   "via": [
+    "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "aquaculture"
+   ],
+   "keywords": [
+    "養殖",
+    "カキ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "04ecfb86d4d26d16",
@@ -1482,44 +2901,6 @@
    "first_seen": "2026-11-18T07:37+09:00"
   },
   {
-   "id": "68e635fd3ab0c9d6",
-   "title": "【山口県】知事の予定／2026年11月18日",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mRkZ5M2p2UG5OZjNpVk9CTmZzaUExZk5BSFBDUm5YWUV0YXRQcmVWcE92QW14bGo0TWR1QndaSXJUVjNNMHRrUlE5ZUxwUm5MS3VEUDhXc05DZ2RGUGhTM2NYSDhGZWtRUVE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-18T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 7.5,
-   "areas": [],
-   "categories": [
-    "policy"
-   ],
-   "keywords": [
-    "知事"
-   ],
-   "first_seen": "2026-11-18T07:37+09:00"
-  },
-  {
-   "id": "44657a1ed3e3e0ff",
-   "title": "山口新聞本社来訪／2026年11月17日",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mN1pudld3TW5nV1FSVlVGRi1RWDVzWmNBVlVIOXVnXzV0MkVId3JxR0FmTkhycXZCTTVYQWEySUVORVhPY1lyS1d5OUl4NG1WZjNhak5hbkF2MHRWZ3M4SzZCSTB6OUI3Smc?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-18T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
    "id": "a62eff57f718d482",
    "title": "【山口県】首長の予定／2026年11月18日",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wcnJ0c3NmdVI5M1FZTnZYZ2tPMkVWLV9zYUh5b1ZibU5fZjlRajZUdjRmQkxpaTE5NW9pSU93b1N6YXJSSTEwVGxVd0YzSHBDZFpEejBpekRjSWJGZ1JSSlpqbm82cVhPV3c?oc=5",
@@ -1552,27 +2933,6 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-18T07:37+09:00"
-  },
-  {
-   "id": "bea2baecf6e9c0ca",
-   "title": "【事件】倉庫に侵入し工具など盗んだ疑い/下関署、５８歳男逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmZUp3QTFpcEZHaU1BaUxmY24wc0VzUXlhbVFBM2lJQmV1UGNaMGRkblM4ai1pbDY5ZmJKMFUwMTlrcDJ5TXpEdU9ETmU0dzFiZGNqNFVOVk1PcW13TVRLSjdTU1JIMXBoN3c?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-18T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 10.5,
-   "areas": [],
-   "categories": [
-    "safety"
-   ],
-   "keywords": [
-    "逮捕"
-   ],
-   "first_seen": "2026-11-19T07:38+09:00"
   },
   {
    "id": "66683980d5d255be",
@@ -1609,43 +2969,9 @@
    "first_seen": "2026-11-19T07:38+09:00"
   },
   {
-   "id": "7907cd7f217e0d68",
-   "title": "移住相談 最多４４万件/２０２５年度、情報発信の強化で",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRzVLN0xfWVR0UUtrRUdZYXlENVR6ZHhYcFRGd2psR3JZVk1HVkcydDVEUG5zREZpLXgzLWtzZHJFRDRWcVF6eVRUYm5pd1pOYTlKd3BaXzZRWlNOLXp6bGtUNjZqbHNNc1E?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-18T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-18T07:37+09:00"
-  },
-  {
    "id": "24a402058254b452",
    "title": "遊びの中にある学び/東流西流 林智之さん",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fb0dhZHE0TUFCOHk1cERvNkZXY3Baa25pLVROZU9pcGtGZ3d5djVUZEFnaGRHcWFVWE5COEg2bWJCQW5LVXowZFRxOFpZTm9iZE85MU44X0szcjNnQ3R6TnI5eDBhaHNmVXc?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-18T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
-   "id": "5c95fee62464d15f",
-   "title": "特定最低賃金 ２業種で改正/山口労働局",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbnl4ZnlkaHpqc0dnY0cyanhadl9sN28zU0xHc1BEWDh6ZlFjNjFHYWxHVzVHMG92WDVfZ2dJNjVZZ3hIcXZGZ2hVYVcyVVY3aUpjZHUtdUFiWlZMWDhqaU1GQWJnWGFsWVE?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -1721,9 +3047,9 @@
    "first_seen": "2026-11-18T07:37+09:00"
   },
   {
-   "id": "286aee8af9854513",
-   "title": "大丸下関、前年割れ/９月、閉店発表以降では初",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jc2RhX0haekZyYzZXUWQzZVRRbExHNmNmWF9HTmFDblF6Y1Jjb1ZJOVFUTmFiallkLUNNazc1aXJRM2lrbnpjRkJmcjRybTZYVWJJVm5kVVZkcWVpVkRqSUhKZzRJMGktYlE?oc=5",
+   "id": "60862924e443f319",
+   "title": "紅葉の周南市・鹿野へ/１１月２１～２３日に里山オープンガーデン",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XY25vcUZxMVh0cTlOcDI1WVJ4WnZuYnNvbXFWNWo4dFYwM0lLM192dnhqeGJxN1VVM0d1bVBQQkhCcHRabExNcFllRHNSVjFwdEpMZU1OMnhva2kyeWU1R0NkUmVRYWxRQ2c?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -1738,9 +3064,174 @@
    "first_seen": "2026-11-18T07:37+09:00"
   },
   {
-   "id": "60862924e443f319",
-   "title": "紅葉の周南市・鹿野へ/１１月２１～２３日に里山オープンガーデン",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XY25vcUZxMVh0cTlOcDI1WVJ4WnZuYnNvbXFWNWo4dFYwM0lLM192dnhqeGJxN1VVM0d1bVBQQkhCcHRabExNcFllRHNSVjFwdEpMZU1OMnhva2kyeWU1R0NkUmVRYWxRQ2c?oc=5",
+   "id": "cfd3452cddb0bf2c",
+   "title": "鶏卵価格、最高水準続く/１１月、１０個入りパック３１１円",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FX1NtX19jakJrR1NoYmZtbGktTWwtb1pmd09xZ2NpRzZib3pOTGM0cDNYTV9PazZsOVlaZjF2UXJ4RVhIS1A0d0x6bUh6VkVwR0I2c0d2WUJfWlE3VlprUFhqbm5jNjhFRVE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 7.5,
+   "areas": [],
+   "categories": [
+    "market"
+   ],
+   "keywords": [
+    "価格"
+   ],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "1e56120c085d7d88",
+   "title": "叙位叙勲",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zYkNJUnpORGdsQ05DUUw0Uk80ZzZVX1E0QnlCUUxyS3ZpS1I1UUdBbzByZlN6YnZDQlJWb1gxekhDSURSVTJTNVdpTGlwQUpNUFpPa2R5VXYxOXBGSmMtZHVGdHJJZGllZUE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "58705c19e1d7172a",
+   "title": "２地区、１０人、２団体を表彰/清掃・環境美化などで山口県",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NX2o5SUtNTl8zdENTWXp4Q2JaVm9admRGVUhnMW12WDA1OVBjMXA3TDQtckFGci1YZi1HOTZORnNrdlExdjBZV3htNDBKbzhnT2VGbktkejBndUYyc2RvTndDa3BwYkhmM1E?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "ef244cc69b4b99a3",
+   "title": "江夏豊さん死去/阪神で奪三振王、カープなどで抑えでも活躍",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ndkVoX0UzMHprTzBiNEFfQVJxNDNEOTlvMUJQSm9hLWN2SkZfLVU5b2VOMURSWVJGTnZQUVhtdFBEbmROenVJbW1wNWw3MTBlREFPeWZfOU5NRWxvOFRXSVpoQ1dhRXZJU2c?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
+   "id": "68e635fd3ab0c9d6",
+   "title": "【山口県】知事の予定／2026年11月18日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mRkZ5M2p2UG5OZjNpVk9CTmZzaUExZk5BSFBDUm5YWUV0YXRQcmVWcE92QW14bGo0TWR1QndaSXJUVjNNMHRrUlE5ZUxwUm5MS3VEUDhXc05DZ2RGUGhTM2NYSDhGZWtRUVE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 7.5,
+   "areas": [],
+   "categories": [
+    "policy"
+   ],
+   "keywords": [
+    "知事"
+   ],
+   "first_seen": "2026-11-18T07:37+09:00"
+  },
+  {
+   "id": "44657a1ed3e3e0ff",
+   "title": "山口新聞本社来訪／2026年11月17日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mN1pudld3TW5nV1FSVlVGRi1RWDVzWmNBVlVIOXVnXzV0MkVId3JxR0FmTkhycXZCTTVYQWEySUVORVhPY1lyS1d5OUl4NG1WZjNhak5hbkF2MHRWZ3M4SzZCSTB6OUI3Smc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "bea2baecf6e9c0ca",
+   "title": "【事件】倉庫に侵入し工具など盗んだ疑い/下関署、５８歳男逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmZUp3QTFpcEZHaU1BaUxmY24wc0VzUXlhbVFBM2lJQmV1UGNaMGRkblM4ai1pbDY5ZmJKMFUwMTlrcDJ5TXpEdU9ETmU0dzFiZGNqNFVOVk1PcW13TVRLSjdTU1JIMXBoN3c?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "safety"
+   ],
+   "keywords": [
+    "逮捕"
+   ],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "7907cd7f217e0d68",
+   "title": "移住相談 最多４４万件/２０２５年度、情報発信の強化で",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtRzVLN0xfWVR0UUtrRUdZYXlENVR6ZHhYcFRGd2psR3JZVk1HVkcydDVEUG5zREZpLXgzLWtzZHJFRDRWcVF6eVRUYm5pd1pOYTlKd3BaXzZRWlNOLXp6bGtUNjZqbHNNc1E?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-18T07:37+09:00"
+  },
+  {
+   "id": "5c95fee62464d15f",
+   "title": "特定最低賃金 ２業種で改正/山口労働局",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbnl4ZnlkaHpqc0dnY0cyanhadl9sN28zU0xHc1BEWDh6ZlFjNjFHYWxHVzVHMG92WDVfZ2dJNjVZZ3hIcXZGZ2hVYVcyVVY3aUpjZHUtdUFiWlZMWDhqaU1GQWJnWGFsWVE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-18T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "286aee8af9854513",
+   "title": "大丸下関、前年割れ/９月、閉店発表以降では初",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jc2RhX0haekZyYzZXUWQzZVRRbExHNmNmWF9HTmFDblF6Y1Jjb1ZJOVFUTmFiallkLUNNazc1aXJRM2lrbnpjRkJmcjRybTZYVWJJVm5kVVZkcWVpVkRqSUhKZzRJMGktYlE?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -1789,44 +3280,6 @@
    "first_seen": "2026-11-19T07:38+09:00"
   },
   {
-   "id": "cfd3452cddb0bf2c",
-   "title": "鶏卵価格、最高水準続く/１１月、１０個入りパック３１１円",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FX1NtX19jakJrR1NoYmZtbGktTWwtb1pmd09xZ2NpRzZib3pOTGM0cDNYTV9PazZsOVlaZjF2UXJ4RVhIS1A0d0x6bUh6VkVwR0I2c0d2WUJfWlE3VlprUFhqbm5jNjhFRVE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-18T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 7.5,
-   "areas": [],
-   "categories": [
-    "market"
-   ],
-   "keywords": [
-    "価格"
-   ],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
-   "id": "58705c19e1d7172a",
-   "title": "２地区、１０人、２団体を表彰/清掃・環境美化などで山口県",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NX2o5SUtNTl8zdENTWXp4Q2JaVm9admRGVUhnMW12WDA1OVBjMXA3TDQtckFGci1YZi1HOTZORnNrdlExdjBZV3htNDBKbzhnT2VGbktkejBndUYyc2RvTndDa3BwYkhmM1E?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-18T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
    "id": "ef0cd36759bc78f1",
    "title": "水素関連産業の裾野拡大/山口県と県産業技術センターが中小支援セミナー",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45XzV1ZzFtRnJSQ0JySGNsTG9YbXVQcERPY0diN240QURyNGhCQUNiM1FTTzVHTlczVlVZU2k2Q2kteUFXYzhidlJ6cV9wcmFXcUFiNkU1Z2ZzcWxiRjE1T3BiUldsM21NM1E?oc=5",
@@ -1842,6 +3295,28 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-18T07:37+09:00"
+  },
+  {
+   "id": "677734aaf17cc088",
+   "title": "養殖カキ へい死拡大 県調査 全海域で8割以上 ／広島",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FYzR3MkI3X2J2TWNRR2JUTGRlVGNldko4OWQtMXMwaFZyTXE5VWhyYTJQSXI2ZjZ0UWNXcDNCSzdIcE5iOV9sYlJEdmN3cnk5Znh6SlA3OUg3YjhsR1ZqMmpOT0lTUl85?oc=5",
+   "source": "毎日新聞",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-18T05:01+09:00",
+   "via": [
+    "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "aquaculture"
+   ],
+   "keywords": [
+    "養殖",
+    "カキ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "94a1792e3c123447",
@@ -1872,6 +3347,35 @@
     "不漁"
    ],
    "first_seen": "2026-11-18T07:37+09:00"
+  },
+  {
+   "id": "5ab1e9689ebf43ba",
+   "title": "久慈市漁協の養殖サーモン ６年目の稚魚投入が盛ん",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiQS1PZ1YwVDRzRmVzLWlRSFB0VVU1a29pbjY2ZGJIRmpDVlRfQVU2aDVtMmtJQy1CdzlrMU9tMHlscDNXODRTeUZTalUyVmlQTl81S2pTNnU3ei1paUdGYTVWOU52Tnc?oc=5",
+   "source": "デーリー東北",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-18T05:00+09:00",
+   "via": [
+    "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）"
+   ],
+   "score": 65.5,
+   "areas": [
+    "iwate"
+   ],
+   "categories": [
+    "org",
+    "salmon",
+    "aquaculture"
+   ],
+   "keywords": [
+    "久慈",
+    "漁協",
+    "稚魚",
+    "サーモン",
+    "養殖"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "218a31402c154192",
@@ -1917,6 +3421,34 @@
     "温暖化"
    ],
    "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "5c0356dd214131d1",
+   "title": "「久慈育ち琥珀サーモン」今シーズンの養殖進む 過去最多の水揚げ目指す",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lQnExRktsMzdzM1pXVVI4dG00NzJNeGlscEllWll2SzZscGFTLV90MWZBZnBuQnFpRHZNb3RVMzVId2x3UjBYbWpqWQ?oc=5",
+   "source": "TVer",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-17T21:52+09:00",
+   "via": [
+    "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）"
+   ],
+   "score": 53.5,
+   "areas": [
+    "iwate"
+   ],
+   "categories": [
+    "salmon",
+    "aquaculture",
+    "market"
+   ],
+   "keywords": [
+    "久慈",
+    "サーモン",
+    "養殖",
+    "水揚げ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "d9423467bf2f3f7c",
@@ -2176,9 +3708,9 @@
   },
   {
    "id": "1c9532bf04b1d8ee",
-   "title": "「西の明石、東の志津川」名産のマダコ水揚げ始まるも2025年の10分の1に… 漁師から嘆き節　宮城・南三陸町",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00STZLUUdEXy1nT3hsUXh1OG1ZRjRYRjhyMUlGX0t1LTkzeWJtdEpGdGFMczNVblJ3cE41SGJRQnpFcnNETG5XeTFOWGhyYUNkN2N5elVRQ1BYOG4xdHg1R1gzdTZKdnIteXlGcEt4U3RONXUwLU1MLXU2aUVDeG_SAYQBQVVfeXFMTWZkdk5hYzQzSHF4bGlDcVFQMjV3ZDVxLUllMjF5eDREOVpodFV0Qms2UFhGUmx2blNSU3pYMmJ4empJdGhsbHJaaDVJZHItc0lKcm5uQlNHOGQwWnYtNThNX3BtQXhXUFQ0OHhmLTFXUUd0RENpNXE4dlJINHRCcGNkSmcw?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "「西の明石、東の志津川」名産のマダコ水揚げ始まるも2025年の10分の1に… 漁師から嘆き節 宮城・南三陸町",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5adXBHQmlZSEJYWGE4SzBWVnZMZmZpOGJvcERuejducHU0Z3hoeWt5VDNkVEVMLVZRZGtqeVhsVER4RHVNU0dXdnBEOHpJR2sxMTVkS0lBWGxZUQ?oc=5",
+   "source": "TBS NEWS DIG",
    "major": false,
    "summary": "",
    "published": "2026-11-17T18:59+09:00",
@@ -2544,7 +4076,8 @@
    "published": "2026-11-17T12:09+09:00",
    "via": [
     "Yahoo!ニュース",
-    "キーワード:三陸 漁業"
+    "キーワード:三陸 漁業",
+    "キーワード:岩手 漁業"
    ],
    "score": 37.0,
    "areas": [
@@ -2639,7 +4172,7 @@
   {
    "id": "c4ba6df85836a367",
    "title": "名産のマダコ漁が始まる 水揚げゼロの船も 宮城・南三陸町（khb東日本放送）",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlozOG1GWHdsQjI3Tm5NSmRfWkI1Y3RQeVpQZ052WF9maWZtb2taOEJDRGRJRU1xZHZmWWdJQnltVjkycmRxNmdTM0VzTmNqMlFVQ3MzTlJCcWotbE5LdmgtWTJ1WDRQMXl0ZE16dHptZUMwbUV3UmlaeVhDR1RldnhRbGM3cmVicERNVjZn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BS19pdHdabXB6bTNyWEZiT184eklfRnQ2NEk4SUt1QngyLWtQQ0c1MkxOaUVlbWZVcnJUZ3RXTk5pRlotQ2toQlhfVXZ1UTFzLS02eXNJVEdTOXpDZTdzSlRMQ09HcDVHaklQelh2WjZzZHFzd2luSlJoZkRCaVk?oc=5",
    "source": "Yahoo!ニュース",
    "major": true,
    "summary": "",
@@ -2801,30 +4334,6 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "6e615b924601de86",
-   "title": "いわきＦＣ／Ｊ２ 八戸で「常磐もの」ＰＲ いわきＦＣアウェー戦 唐揚げ千食振る舞い 県漁連",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53SmtyNGlfV1ZEN19vWHdVV2ZqMFhfUGtMUE9USnI2bVctZjNLdjRfSk1fbllaSWNzWjlXSEpSQWhpU3E5aGRuY25KQnd4ZXM?oc=5",
-   "source": "福島民報デジタル",
-   "major": false,
-   "summary": "",
-   "published": "2026-11-17T11:12+09:00",
-   "via": [
-    "キーワード:県漁連・漁協"
-   ],
-   "score": 22.5,
-   "areas": [
-    "tohoku"
-   ],
-   "categories": [
-    "org"
-   ],
-   "keywords": [
-    "八戸",
-    "漁連"
-   ],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
    "id": "4927f8eba83f27cc",
    "title": "同国の水産物総生産量は約96万トンに達した。",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YcFdleG1vYlJ3QnlXcUhGS2xWOWJfaHR5TU9XNUhQTzY3ODhtVTJiUW1MZ21ET1N2STNFWGJsRHlaQm1zSnRQZVU2WkROM3o2OFlNR09xR21sdE93V3kzM3ZSNzlsZl9va2lUbU5sbmJrcDc1WWZLbjZEN1Q?oc=5",
@@ -2946,6 +4455,99 @@
    "first_seen": "2026-11-20T07:34+09:00"
   },
   {
+   "id": "8faa6dfde8f0ac1b",
+   "title": "【山口県】首長の予定 2026年11月17日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sU1hEeGtEYlo3NlVySkVpTjJXS0FWem5DSkRRUzhDbTlZcjl0WVA5VXhUNmx2MGtQTzA5OUZVb3BRWmtkSWhHX1dwRmJTSlh0UDF1Z2lNSHVfME9Ra2lYX3dmallsQkl5TVE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-17T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "bb946de4f0cd6b60",
+   "title": "豆子郎、田村ビルズ社長 ＡＩ活用、人づくり紹介へ/１１月１９日の下関アドベンチャーサミットに登壇",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUVZ0WVYyYWdhMXhTaFR6TzV2TjhPYW8xRVdvRmQweFV6MndoaDFENzZWQmZlUmRwMlpNa2VjbEtGSEFrc0JiNGNBR1ZiUElwOWE5RlVScFlWbjJIZ0JXR29QTXgxR0w1MkE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-17T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "f4b4622484727147",
+   "title": "スパコン富岳不正アクセス 理研が運用停止、調査 利用者情報流出の恐れ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QLVRTWUhqcW42d3ZrYWstUUwwVHdUMHJobXVYdVUwYl83Y3F3ZFlOUGVJWXNjNWUycmI1V2ZzcmhWWkQtVS01ano2dEZYUWFEbEx1akMtYkRaY0htZzJQV2pJQWYxU0lvZlE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-17T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "8f8400d70f84721f",
+   "title": "【事件】光市の８０代３９９９万円被害 警察官などかたる特殊詐欺",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xdTdHc2NybUotT04tb1dFRV9WWDI4enE4bklGR1ZsXzVMdk9NU3MzOU84cEFHZ2NwdjZpLWRWOE5ORVpOYXp1MVNtdmhpRlBySDBENnh2ZVNnVzBJUy1fZE91bDRha2otM1E?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-17T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "0a3ceebb29b56ee0",
+   "title": "養護学校に“移動水族館” 子どもたちが海の生き物と交流 とげとげの「ウニ」や細長く独特の感触がする「ナマコ」など普段は目にする機会の少ない海の生き物に触れる 青森県弘前市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DUS1xYmwtUUcxRXZDWFFVSjQzNmZPN0pIcXhqRG1Kb214ME16Zzh3QlJ4aFZNRDRRcVd6U25fdmFKTFV2MFluRTFiUzU2ZzN2RWdxMWhkOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-17T06:00+09:00",
+   "via": [
+    "キーワード:アワビ・ウニ・密漁"
+   ],
+   "score": 15.0,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "isone"
+   ],
+   "keywords": [
+    "青森",
+    "ウニ",
+    "ナマコ"
+   ],
+   "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
    "id": "038666205d6cfb35",
    "title": "【山口県】知事の予定/2026年11月17日",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15SlJad2MxT2FRNUtWU3RTY1NBb3dRZExGR1VPWkpsMTZUTTFicG5SWGVWN0FRbnlvSmV3R0NMSkJvcG5SWlBBZUxybXZYXzJjR3RpZHFoZ3E3ZXI4a3FhemFfc2I4LXVtU0E?oc=5",
@@ -2982,65 +4584,6 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
-   "id": "8faa6dfde8f0ac1b",
-   "title": "【山口県】首長の予定 2026年11月17日",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sU1hEeGtEYlo3NlVySkVpTjJXS0FWem5DSkRRUzhDbTlZcjl0WVA5VXhUNmx2MGtQTzA5OUZVb3BRWmtkSWhHX1dwRmJTSlh0UDF1Z2lNSHVfME9Ra2lYX3dmallsQkl5TVE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-17T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
-   "id": "0a3ceebb29b56ee0",
-   "title": "養護学校に“移動水族館” 子どもたちが海の生き物と交流 とげとげの「ウニ」や細長く独特の感触がする「ナマコ」など普段は目にする機会の少ない海の生き物に触れる 青森県弘前市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DUS1xYmwtUUcxRXZDWFFVSjQzNmZPN0pIcXhqRG1Kb214ME16Zzh3QlJ4aFZNRDRRcVd6U25fdmFKTFV2MFluRTFiUzU2ZzN2RWdxMWhkOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "major": false,
-   "summary": "",
-   "published": "2026-11-17T06:00+09:00",
-   "via": [
-    "キーワード:アワビ・ウニ・密漁"
-   ],
-   "score": 15.0,
-   "areas": [
-    "tohoku"
-   ],
-   "categories": [
-    "isone"
-   ],
-   "keywords": [
-    "青森",
-    "ウニ",
-    "ナマコ"
-   ],
-   "first_seen": "2026-11-20T07:34+09:00"
-  },
-  {
-   "id": "57868bb8d8356ab4",
-   "title": "情報あっちこっち／山口県内のイベント",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GeWpFVWJ6MDlSYVl1NUh3eUs4Vm1OdnZuWDJEdXZrTUhfYlFuQ1o5UndCNlU5blZYckFlT2xVUFRtR3pIcVUzN0RDRmU1aDB1eGtjVHVVWVk5cFcxVnl2S0NKT3FKNldnaEE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-17T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
   },
   {
    "id": "f8b171bce149145a",
@@ -3111,23 +4654,6 @@
    "first_seen": "2026-11-19T07:38+09:00"
   },
   {
-   "id": "bb946de4f0cd6b60",
-   "title": "豆子郎、田村ビルズ社長 ＡＩ活用、人づくり紹介へ/１１月１９日の下関アドベンチャーサミットに登壇",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUVZ0WVYyYWdhMXhTaFR6TzV2TjhPYW8xRVdvRmQweFV6MndoaDFENzZWQmZlUmRwMlpNa2VjbEtGSEFrc0JiNGNBR1ZiUElwOWE5RlVScFlWbjJIZ0JXR29QTXgxR0w1MkE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-17T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
    "id": "c2306f5e53fceaa4",
    "title": "周南市で１１月２２日プロレス・ヒートアップ 障害者無料招待 レフェリーに地元出身の手島さん「生の迫力楽しんで」",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwdTV4ZEM2TktNbDRlSTVmNURaVl9jeDhMSXdkQk1KY1p0cU13NWdMek5YeGE0OTBqTF9xYzJJRDZZT3hFR3hBYTNoazQySzlhcllVN3VyWG5RQ21sQ0RqcnNKVUdWY1I5UlE?oc=5",
@@ -3179,23 +4705,6 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "f4b4622484727147",
-   "title": "スパコン富岳不正アクセス 理研が運用停止、調査 利用者情報流出の恐れ",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QLVRTWUhqcW42d3ZrYWstUUwwVHdUMHJobXVYdVUwYl83Y3F3ZFlOUGVJWXNjNWUycmI1V2ZzcmhWWkQtVS01ano2dEZYUWFEbEx1akMtYkRaY0htZzJQV2pJQWYxU0lvZlE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-17T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
-  },
-  {
    "id": "45d78b0e8e316c32",
    "title": "山口県の課題に質問や意見/やまぐち高校生県議会、４６人参加",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVV3dHWm1obnVBME04cW14aE1xVFRvN0hTUlZSbDVURGRuMlZqajk5QlNwQXhRUEptcVVTZTlzeERNNHZYWUxtMUxqRnhzV2gwamZXaEc4VjlDcV96ZnVWclFOM040d0xaRVE?oc=5",
@@ -3214,23 +4723,6 @@
    "keywords": [
     "県議会"
    ],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
-   "id": "8f8400d70f84721f",
-   "title": "【事件】光市の８０代３９９９万円被害/警察官などかたる特殊詐欺",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xdTdHc2NybUotT04tb1dFRV9WWDI4enE4bklGR1ZsXzVMdk9NU3MzOU84cEFHZ2NwdjZpLWRWOE5ORVpOYXp1MVNtdmhpRlBySDBENnh2ZVNnVzBJUy1fZE91bDRha2otM1E?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-17T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
@@ -3304,6 +4796,30 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
+   "id": "6e615b924601de86",
+   "title": "いわきＦＣ／Ｊ２ 八戸で「常磐もの」ＰＲ いわきＦＣアウェー戦 唐揚げ千食振る舞い 県漁連",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53SmtyNGlfV1ZEN19vWHdVV2ZqMFhfUGtMUE9USnI2bVctZjNLdjRfSk1fbllaSWNzWjlXSEpSQWhpU3E5aGRuY25KQnd4ZXM?oc=5",
+   "source": "福島民報デジタル",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-17T00:00+09:00",
+   "via": [
+    "キーワード:県漁連・漁協"
+   ],
+   "score": 22.5,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "org"
+   ],
+   "keywords": [
+    "八戸",
+    "漁連"
+   ],
+   "first_seen": "2026-11-17T22:31+09:00"
   },
   {
    "id": "c7e867a46e45c088",
@@ -3506,31 +5022,6 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "d4b1dd80e9b9d086",
-   "title": "サンマ、歴史的不漁…新方式「船上冷凍」を模索 鮮度維持と経営改善に活路【大漁！水産部長の魚トピックス】",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDZLSWNkV3dURF9lRWg5YzFvR0dNN1VzNm40cExoSjV5UDR6bmFhdFFuaDBiNEVvVk1SZEpqZlBOdFZiSTBtYjhqYlI5N2Y2TFpDTi1tZUdwdmIzM2RSZWM1WVd5Y1hvNG1wSmFvQzhvVmlHbjRRX3lURjlvdmY4RExtVTZuNDNLbkoySXR3c2w?oc=5",
-   "source": "時事ドットコム",
-   "major": false,
-   "summary": "",
-   "published": "2026-11-16T18:47+09:00",
-   "via": [
-    "キーワード:サンマ・スルメイカ"
-   ],
-   "score": 22.5,
-   "areas": [],
-   "categories": [
-    "migratory",
-    "environment",
-    "labor"
-   ],
-   "keywords": [
-    "サンマ",
-    "不漁",
-    "経営"
-   ],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
    "id": "29d1e82374213c48",
    "title": "ズワイガニ漁の漁船同士が衝突し一隻が沈没 乗員は全員無事 いずれも鳥取県岩美町の田後漁協所属の沖合底引き網船 島根県出雲市（日本海テレビ）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqZkZtQmR4aXZkWkU4NWJ1Vlg1ODEyMktWY2llbHB1SDZVX2g2cVdrd21PTkxhdGVPa2EzQWxuU2VIczBKbW91c3FmRXNtX3RJWlFGWlhsZHZENVRuX3BrR2dLMmpidlg3dkpqV2xuU2RnSkVjTHdzNk9EbGlvLVk?oc=5",
@@ -3629,6 +5120,47 @@
    "first_seen": "2026-11-20T07:34+09:00"
   },
   {
+   "id": "abf26b0feacf3ef1",
+   "title": "【先行】長門・大寧寺で紅葉見頃/夜間ライトアップも実施中 ピークは２３日ごろか",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lQl9nMmN6NWVMWm9ITHV0OWlZQzV5Q3UtaUxacEl4TkIzV05SZHZqRFZTMU5GYUVZbjZkYllUd0dxTVBNd0lZNjBxcUhsQzhIRUh1WFd1b093dzRPTzlFMmRxT1ZhUzhfMVE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-16T17:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "bd87c9557b58520d",
+   "title": "２６年のスルメイカ漁獲枠３倍超 水産庁が正式決定",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkMGdjSi1EYzRpcHF1bktfZ2tvQmdQZnBuM3hWUWpfZ2tOYUVfdzR5OG9tbWNULUxndVhNRUo3MHJUV1h1UFl4RjVkbEtaRXlPMDBJRWx2VXZpNFhwWnhsRmtFQzRSS0E?oc=5",
+   "source": "山陽新聞",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-16T17:00+09:00",
+   "via": [
+    "キーワード:サンマ・スルメイカ"
+   ],
+   "score": 18.0,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "policy"
+   ],
+   "keywords": [
+    "スルメイカ",
+    "イカ",
+    "水産庁"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
    "id": "6bf3fb395af667df",
    "title": "【サンマ】「庶民の味方」危うい未来 ピークの３割、養殖が鍵",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhWll4UHNHV0hqRnNGOXlPeGw2LWdKM3pkVVo0VEhMWEhYVjVRbWtld0YzY0ZsV014ay1HVnEwLXhHLTVrMlE3VFU5M0tBTE5UQlE?oc=5",
@@ -3696,23 +5228,6 @@
    "first_seen": "2026-11-18T07:37+09:00"
   },
   {
-   "id": "abf26b0feacf3ef1",
-   "title": "【先行】長門・大寧寺で紅葉見頃/夜間ライトアップも実施中 ピークは２３日ごろか",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lQl9nMmN6NWVMWm9ITHV0OWlZQzV5Q3UtaUxacEl4TkIzV05SZHZqRFZTMU5GYUVZbjZkYllUd0dxTVBNd0lZNjBxcUhsQzhIRUh1WFd1b093dzRPTzlFMmRxT1ZhUzhfMVE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-16T17:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
    "id": "f4d559c9f63f8f2e",
    "title": "【先行】東南アジアのバイヤーに下関の食ＰＲ/特別メニューディナーも堪能",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EWF91emY5VnFhOER6YnVuMy1XRVNxNjBZYTgtbzlSTEE5cHU3SS1tMGdjYUNzWXRENGd0ejd1YU9XazBKdm1vY3ZsVDAzTzNpVDY0ZlJkT2ZiQmdBNk93VjNRcTRVQzlwenc?oc=5",
@@ -3745,6 +5260,23 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-18T07:37+09:00"
+  },
+  {
+   "id": "779405fc6f52c4b5",
+   "title": "JCB、韓国・新韓カードおよび西鉄グループと共同で「福岡インバウンドプロモーション」を実施",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KNzFMZFItc0NXM0dEd0QtZTRXVGxLdEFGU0ZMUWJxaVBsVWx6RmNTYVo5bDNVemJsR0NqRWptQ25vSlBKXzlZTDVTX0RvanVVTDQ3bFp0YWc4OWQ1N2ZGVXZSS1Bvd215NHNLSHlVMVJIWC1zV2hSVQ?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-16T15:02+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-21T07:29+09:00"
   },
   {
    "id": "8fafdb3971283d5b",
@@ -4022,7 +5554,7 @@
   {
    "id": "a50efee97e7670e6",
    "title": "秋サケ来ない岩手・大槌の加工業者 養殖で付加価値高い商品に活路 [岩手県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3SlZBVlBfZFZwaUlKR2VGVWNBVlBWcE5vTXNORlF5TEFQRG9zWUhmc1dZVDR3ZS1GRnJyWFR0RVlGdjZUT3czeEZrWFpRZ1BKRi01Qmx1VG92LVpQVGtOZHFzd1JMc1U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnJhaGxXckp1SWk0RGJkemV5aW5pU3kwSnNCREQxSEtXbUlGOFNsTnl4bnFybzFOVHV3N3VqTjl4cFROZUdndWhzVWFjZEFpa0RnWjJERmdnd3NERTE0Vmo5akpHYlpCTWQ5TXowVGJvN0lZUjJZSmVaaWg3aWFhd3h6T1pJMkUwRDNkYS1R?oc=5",
    "source": "朝日新聞",
    "major": true,
    "summary": "",
@@ -4083,36 +5615,16 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "ddbb0be83d424154",
-   "title": "山口県内の交通事故発生状況/2026年11月15日",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTXYtVjY5Vmthc0NjTFRYZ2xJR2ZNUlBnRFZxY1hwdVJjWHl1RzAyT0VOc1lhWHhJZ0hDQ0lfTGIzSDZRam5vaHl3dm5GQnYzZjVDdjFla2QtYlV5X3NNYm9IWjg0bF9fQXc?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-16T10:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 10.5,
-   "areas": [],
-   "categories": [
-    "safety"
-   ],
-   "keywords": [
-    "事故"
-   ],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
    "id": "c6ecfd3c0d1be189",
    "title": "秋サケ来ない岩手・大槌の加工業者 養殖で付加価値高い商品に活路",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZi1tZXZMUnVEWUVSUDd6NHBqVlBPMXRGN3RjNGppTGZOUWRKWGF4VHFueWprZF9GbnJNT1JlX2hWRDJKdm9VMnNGMTJpVXI4SHEzVzVMZGNfOUhmUGY2RkJ3MjBtOFdkSEhUNFpGLXFUS0oybjlCVVBNTEZkRXNsdHpERE1KX2JGeFcyV3ZLOENnUzBfMXF2QtIBngFBVV95cUxNSV85MWlINXdRaFhPNkZwY0tFZEpwdG9UdVRMcFpmdEJIOHR0U0lsVkI1RVVyVVY3ZEJjenR6UDJobFo2NnVvX3g2NGx6Uk1MM1pIXzlfZU1TTTJwX0VCT1ZkTmk1ZDVKWWx2X01wQnpzUTZXV3VuRGFKdEVNX005NUlHZ2ZZQm5ib2lkY25vaVFsZWNuNEduNVNiUVgtdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2M4YTh1MFY2YUo4cDlSMlJURzJ6N25pNjFna2VYN3pUcGxfWjlGZU03Y0VkcGVhei14U25RQ0Z3eXFrWDZkeExlSjVyVk81SVhKakZIY0xYZWlHTkhMa0xaak8taTJKcUJmOElvdDRaNFNmZERwTko2S2FvcGI5M1g5VGt5S0RRYWJ1bVZESGZEVVFUcjhlTmZyWWNiQUhUN3fSAZ4BQVVfeXFMTUlfOTFpSDV3UWhYTzZGcGNLRWRKcHRvVHVUTHBaZnRCSDh0dFNJbFZCNUVVclVWN2RCY3p0elAyaGxaNjZ1b194NjRselJNTDNaSF85X2VNU00ycF9FQk9WZE5pNWQ1Sllsdl9NcEJ6c1E2V1d1bkRhSnRFTV9NOTVJR2dmWUJuYm9pZGNub2lRbGVjbjRHbjVTYlFYLXc?oc=5",
    "source": "ｄメニューニュース",
    "major": false,
    "summary": "",
    "published": "2026-11-16T10:00+09:00",
    "via": [
-    "キーワード:NHK岩手"
+    "キーワード:NHK岩手",
+    "キーワード:養殖（ワカメ・カキ・ホタテ・サーモン）"
    ],
    "score": 56.5,
    "areas": [
@@ -4132,6 +5644,27 @@
     "加工"
    ],
    "first_seen": "2026-11-18T07:37+09:00"
+  },
+  {
+   "id": "ddbb0be83d424154",
+   "title": "山口県内の交通事故発生状況/2026年11月15日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTXYtVjY5Vmthc0NjTFRYZ2xJR2ZNUlBnRFZxY1hwdVJjWHl1RzAyT0VOc1lhWHhJZ0hDQ0lfTGIzSDZRam5vaHl3dm5GQnYzZjVDdjFla2QtYlV5X3NNYm9IWjg0bF9fQXc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-16T10:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 10.5,
+   "areas": [],
+   "categories": [
+    "safety"
+   ],
+   "keywords": [
+    "事故"
+   ],
+   "first_seen": "2026-11-17T22:31+09:00"
   },
   {
    "id": "b35a2971a6f7dbc2",
@@ -4169,7 +5702,7 @@
   },
   {
    "id": "8481c73acab61373",
-   "title": "山口ＤＣポスター原画めぐりキャンペーン ２０２７年１月２９日まで山口県内５市で限定展示",
+   "title": "山口ＤＣポスター原画めぐりキャンペーン/２０２７年１月２９日まで山口県内５市で限定展示",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GX3drU09icmdWVmp1T2RUXzUtTWhHSC05UG1yZkxNU0l2OUpITFRyVlVTa1lfb25zNmVkNU1PdEJkdWpCM2puQ3VFRDBZQ0lTekVsekJLcVoxN1JwZ1d4LWJNSU9YbnJ3Y2c?oc=5",
    "source": "みなと新聞",
    "major": true,
@@ -4183,27 +5716,6 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
-   "id": "f86a9edf912e6610",
-   "title": "【山口県】知事の予定/2026年11月16日",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZ2FUSjdWam1fbEVaRE1FeDJJdGN5R1J3a08tdW9Od2hUQmZxUVNPcFdDTzRpVThrS3FGakIwd2JmcXk1akdLaktqckF0N2pQa3ZXaG14T3JDMG5qSU55eHp1dFE0OC13dWc?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-16T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 7.5,
-   "areas": [],
-   "categories": [
-    "policy"
-   ],
-   "keywords": [
-    "知事"
-   ],
-   "first_seen": "2026-11-20T07:34+09:00"
   },
   {
    "id": "6c51a86698c8c2e9",
@@ -4240,9 +5752,9 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "a70c82c10fa30211",
-   "title": "レノファ山口、カマタマーレ讃岐と１―１ドロー ４位",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMmFoRnNaVGFDaWNfbVZHUTc5LUJyRjFpaEI4UFFfaXdpUGpPV0N1RmxGYklyWWFwZ3VkSVNSYVotVDcxN21QZ3FaX0dIV3dCTzdRckRsa0RmOV9RRjZWT2YyQTJ2ZG01cUE?oc=5",
+   "id": "9f9d1be6dcfae2bb",
+   "title": "ハンズ渋谷店、営業終了",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHcUdoZlhjUDRNX1JXZ29sM0NFWUpxczZOTGFFRHdjQUJiQ0picUh1alI1bm5nSmlSTFZFbXNoYWlSMTl0TGYtQm9NRWJMTG9OcDJmeG1La0doR0xOTHM4X292Wm01aWxtRVE?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -4257,9 +5769,64 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "9f9d1be6dcfae2bb",
-   "title": "ハンズ渋谷店、営業終了",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHcUdoZlhjUDRNX1JXZ29sM0NFWUpxczZOTGFFRHdjQUJiQ0picUh1alI1bm5nSmlSTFZFbXNoYWlSMTl0TGYtQm9NRWJMTG9OcDJmeG1La0doR0xOTHM4X292Wm01aWxtRVE?oc=5",
+   "id": "9bd8ab8a86cde686",
+   "title": "糖尿病への理解深め暮らしやすい社会に/下関市で「世界糖尿病デー」啓発イベント",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saU9pckhtMTFqbTVOQ2l2eVZPeFQxMnpja3RNeVdFNG9ta2NDSWNYcVhabDAtM3RTZ2tTR2pObHBDSWM0OTF3enZTWS01dWExTW5RMUt3bDBodUx5eDBlZmtfSkVVVHh2TlE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-16T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "f2d8a4a2285161a1",
+   "title": "消費減税「効果小さい」６３％ 共同通信世論調査/「サイバー対応遅い」５９％ 財源、支援金「詳細説明を」８５",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13NXJNal8wZzJsNm12X2t2cW9uRjBsZDlNYWhUbldvS1BfMVJ5X3dmT0JzVVV2OU9LRXRTdl9qbWlxMDNsWmkwVTh0VmNIaHFKcmlWRGZfYVlGUWxoakFUT2lQODB0M19vZEE?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-16T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 0.0,
+   "areas": [],
+   "categories": [],
+   "keywords": [],
+   "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "f86a9edf912e6610",
+   "title": "【山口県】知事の予定/2026年11月16日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZZ2FUSjdWam1fbEVaRE1FeDJJdGN5R1J3a08tdW9Od2hUQmZxUVNPcFdDTzRpVThrS3FGakIwd2JmcXk1akdLaktqckF0N2pQa3ZXaG14T3JDMG5qSU55eHp1dFE0OC13dWc?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-16T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 7.5,
+   "areas": [],
+   "categories": [
+    "policy"
+   ],
+   "keywords": [
+    "知事"
+   ],
+   "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
+   "id": "a70c82c10fa30211",
+   "title": "レノファ山口、カマタマーレ讃岐と１―１ドロー ４位",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfMmFoRnNaVGFDaWNfbVZHUTc5LUJyRjFpaEI4UFFfaXdpUGpPV0N1RmxGYklyWWFwZ3VkSVNSYVotVDcxN21QZ3FaX0dIV3dCTzdRckRsa0RmOV9RRjZWT2YyQTJ2ZG01cUE?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -4308,43 +5875,9 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "9bd8ab8a86cde686",
-   "title": "糖尿病への理解深め暮らしやすい社会に/下関市で「世界糖尿病デー」啓発イベント",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saU9pckhtMTFqbTVOQ2l2eVZPeFQxMnpja3RNeVdFNG9ta2NDSWNYcVhabDAtM3RTZ2tTR2pObHBDSWM0OTF3enZTWS01dWExTW5RMUt3bDBodUx5eDBlZmtfSkVVVHh2TlE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-16T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
    "id": "eca805b53fb83a5c",
    "title": "【山口県】先週の出来事/2026年11月7日～14日",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JZ29lNkxjR0NwRllTZFZ1NEpCRDBKVzYzTEs4ZGlEWWNNTjFuNS1lRkxmNkxJUnF5c0NXU0ZLSEpjaHNicnhTU0k1bHZQUWxfZDVEZVJEQ1JzN2VRTHUyWkhwVUFKSlJUYlE?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-16T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
-   "id": "f2d8a4a2285161a1",
-   "title": "消費減税「効果小さい」６３％ 共同通信世論調査/「サイバー対応遅い」５９％ 財源、支援金「詳細説明を」８５",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13NXJNal8wZzJsNm12X2t2cW9uRjBsZDlNYWhUbldvS1BfMVJ5X3dmT0JzVVV2OU9LRXRTdl9qbWlxMDNsWmkwVTh0VmNIaHFKcmlWRGZfYVlGUWxoakFUT2lQODB0M19vZEE?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -4481,6 +6014,31 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-20T07:34+09:00"
+  },
+  {
+   "id": "d4b1dd80e9b9d086",
+   "title": "サンマ、歴史的不漁…新方式「船上冷凍」を模索 鮮度維持と経営改善に活路【大漁！水産部長の魚トピックス】",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VQ0d4azRuWENnYXJ3cXJ2djZFWUtrNmZvMmNhWDFYdXJKMnplTXNNTmluOU9wZUgtTktiSXhxS2g1QTEyUVBEQ0U4U2NQQmotajRUX3RYWFRrR0JC?oc=5",
+   "source": "時事ドットコム",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-16T00:00+09:00",
+   "via": [
+    "キーワード:サンマ・スルメイカ"
+   ],
+   "score": 22.5,
+   "areas": [],
+   "categories": [
+    "migratory",
+    "environment",
+    "labor"
+   ],
+   "keywords": [
+    "サンマ",
+    "不漁",
+    "経営"
+   ],
+   "first_seen": "2026-11-17T22:31+09:00"
   },
   {
    "id": "80a25efea1e87e63",
@@ -4769,7 +6327,7 @@
   },
   {
    "id": "40a0f535c502fc17",
-   "title": "【速報】高川学園が西京下し優勝/全国高校サッカー選手権大会山口県大会",
+   "title": "【速報】高川学園が西京下し優勝 全国高校サッカー選手権大会山口県大会",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PYk16LUtxTVFfTm9fQW5uRmtCeVJmS285Tm9GU1hOcFZwWmFsUjZOZjVBVjNSUHpmRUtYTlQza2pXMG1mdk8yN2x1Wml5d2FnNHU0cWpDUDQxRnVzUnpjb1RGdFRGY2F0N2c?oc=5",
    "source": "みなと新聞",
    "major": true,
@@ -4837,12 +6395,12 @@
   },
   {
    "id": "941919dad3186be0",
-   "title": "銚子でサンマ初水揚げ 昨年より2カ月以上遅く（千葉日報オンライン）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95S0ljSzI2WDcyXzg5dnFYY25YcmhPX0tjTGpkSmFKVkJNWUtVOVVKTnlRcndudnEybzQxSVl1Mk9GOThhNXA0bk5IdlNoa0N3SkNqaU9laHRxWk03cUZ6dlhTdTVVWG5XbGNtZXZ6bDJvbklMLTRYWFFqa0FzUW8?oc=5",
+   "title": "銚子でサンマ初水揚げ 昨年より2カ月以上遅く (千葉日報オンライン)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXM1Rk9Vb0JfUEFNbGV0VFZKYmM5SFZ6SWFEaFZYdDVkMmZfY2tic3VkSmJoYzZNM1JKU0lEcm1nN3dJT0RBb1FXc3VCcVBhWkNoQ3F1RnA3TV9QZ0ttd084UlR2TDNMcnRUNHl4SVdjaDBNa0ZUM25zaDdxSV9ZVnhVa200ZUhtcWZMRk5R?oc=5",
    "source": "Yahoo!ニュース",
    "major": true,
    "summary": "",
-   "published": "2026-11-15T12:00+09:00",
+   "published": "2026-11-15T12:27+09:00",
    "via": [
     "Yahoo!ニュース（水産全般）",
     "キーワード:サンマ・スルメイカ"
@@ -5008,23 +6566,6 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "f6c8f2e529e4bc2f",
-   "title": "山口新聞俳壇/選・杉山久子",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iNHJ2T09CWWJsc3NkUVFqWFNpWWtaQ2w2eHRKS0d1YXRNeFl2akFqbnhqOXEtZ2ozczJ6Q2k1Tm1hbVFBcFJsX2hKc2ZlaG4zeFdBdjZkNWg4Vkt6ZF96bVNlaEJXMzVSMGc?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-15T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 0.0,
-   "areas": [],
-   "categories": [],
-   "keywords": [],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
    "id": "ab937c8cc9901195",
    "title": "川柳",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aM1ljOHhhZ2hqRmlJZFk5SmthUzBXMzl1RkdoakFtd0Vfb2RjWVpQb21IZnZ2dnZyTDNVemFoZ0hvb2d1dG1LUUV1MGhFc0czVlUwZnVFWllKVG1rQXdPUnlfbEdhdGxGZGc?oc=5",
@@ -5042,9 +6583,9 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "cd5e8ede81d3e028",
-   "title": "人との出会いは宝なり/リレーエッセー ＮＰＯ法人おひさまランド理事長・平岩陽子さん",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xMkpRd2xKekxLNmRZS1V6SFR6dUxfTmg1d0xxamJ4NFdQcHYtSTh1cW9RLWxyX1RqQ2R2d2lmVm01OVUxakh4cWV6TVNrVEVxOHZpSmNKc0RBcGVLT3lJSjV3a0puNHRPTGc?oc=5",
+   "id": "f6c8f2e529e4bc2f",
+   "title": "山口新聞俳壇/選・杉山久子",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iNHJ2T09CWWJsc3NkUVFqWFNpWWtaQ2w2eHRKS0d1YXRNeFl2akFqbnhqOXEtZ2ozczJ6Q2k1Tm1hbVFBcFJsX2hKc2ZlaG4zeFdBdjZkNWg4Vkt6ZF96bVNlaEJXMzVSMGc?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -5076,30 +6617,9 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
-   "id": "773c3e7294fe7c19",
-   "title": "【山口県】知事の予定/2026年11月15日",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BQ1RzQkhWa2szeVRSWHJHSHFkLUN4MlVHUWJ0SVpacDZBMWNuR29zc3VKZVNPZi1jRzlWWlNXd2xQSXlYZGhQWDRhTlNiVlYtblpoSUREb0F3RG5Sb1VOeld5UmtrWmEzY3c?oc=5",
-   "source": "みなと新聞",
-   "major": true,
-   "summary": "",
-   "published": "2026-11-15T06:00+09:00",
-   "via": [
-    "みなと新聞"
-   ],
-   "score": 7.5,
-   "areas": [],
-   "categories": [
-    "policy"
-   ],
-   "keywords": [
-    "知事"
-   ],
-   "first_seen": "2026-11-20T07:34+09:00"
-  },
-  {
-   "id": "1e56120c085d7d88",
-   "title": "叙位叙勲",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQWW9LODJmOEQ3RkFlelcxUnRVWjQwUGI4UVhweEJXeFZaT1lEejlFcXdIU0J1Sk1IejhRakM3Q2lULXlfblZYM05abFBRWE41ZmxvZ25PY3FIWTVfRVdBaVJWY2NhRVplZmc?oc=5",
+   "id": "cd5e8ede81d3e028",
+   "title": "人との出会いは宝なり/リレーエッセー ＮＰＯ法人おひさまランド理事長・平岩陽子さん",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xMkpRd2xKekxLNmRZS1V6SFR6dUxfTmg1d0xxamJ4NFdQcHYtSTh1cW9RLWxyX1RqQ2R2d2lmVm01OVUxakh4cWV6TVNrVEVxOHZpSmNKc0RBcGVLT3lJSjV3a0puNHRPTGc?oc=5",
    "source": "みなと新聞",
    "major": true,
    "summary": "",
@@ -5111,7 +6631,7 @@
    "areas": [],
    "categories": [],
    "keywords": [],
-   "first_seen": "2026-11-19T07:38+09:00"
+   "first_seen": "2026-11-17T22:31+09:00"
   },
   {
    "id": "ed5de928993f3ea2",
@@ -5146,6 +6666,27 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "773c3e7294fe7c19",
+   "title": "【山口県】知事の予定/2026年11月15日",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BQ1RzQkhWa2szeVRSWHJHSHFkLUN4MlVHUWJ0SVpacDZBMWNuR29zc3VKZVNPZi1jRzlWWlNXd2xQSXlYZGhQWDRhTlNiVlYtblpoSUREb0F3RG5Sb1VOeld5UmtrWmEzY3c?oc=5",
+   "source": "みなと新聞",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-15T06:00+09:00",
+   "via": [
+    "みなと新聞"
+   ],
+   "score": 7.5,
+   "areas": [],
+   "categories": [
+    "policy"
+   ],
+   "keywords": [
+    "知事"
+   ],
+   "first_seen": "2026-11-20T07:34+09:00"
   },
   {
    "id": "ae7769af4cdef532",
@@ -5691,7 +7232,7 @@
   },
   {
    "id": "a91def00cb0d2133",
-   "title": "【まとめ】山口県内 店舗・施設オープン/2026年8月2日～11月14日",
+   "title": "【まとめ】山口県内 店舗・施設オープン 2026年8月2日～11月14日",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44MFRtMWRWVW1Iam55SW9fOUwzdHdITTlDREJqYU5QUDI0WW16RGNuU09uNndGS2pyNTYwbHNOS3IzNDlfVk5sM3NaQ01FU1BBM3U4UkpIUVRkQU8wclZYT2JqSzk0VFctUkE?oc=5",
    "source": "みなと新聞",
    "major": true,
@@ -5705,6 +7246,30 @@
    "categories": [],
    "keywords": [],
    "first_seen": "2026-11-17T22:31+09:00"
+  },
+  {
+   "id": "a5fb26f520cf572c",
+   "title": "漁連、来年の操業拡大を正式決定 福島、自粛は原発半径７キロ",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaWTMzT09uaUFPcVdMMjFPVmpkdEVyRE94N0hiOVdoRnU4NTJDbnJMYVhZYzROT2hqaF9TdS1GYXB1WDd0bm92SXNlMXcydjlVNHdKRzVyVllkZENuVC1oNDFPd29xY2c5T0pBVXk1ZkRZNjktWW5abU1B?oc=5",
+   "source": "山陽新聞",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-14T13:01+09:00",
+   "via": [
+    "キーワード:県漁連・漁協"
+   ],
+   "score": 22.5,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "org"
+   ],
+   "keywords": [
+    "福島",
+    "漁連"
+   ],
+   "first_seen": "2026-11-20T07:34+09:00"
   },
   {
    "id": "15e423ee2fa8a308",
@@ -5755,9 +7320,9 @@
   },
   {
    "id": "8dea9ab3bef44e45",
-   "title": "岩手・大船渡市の水産会社が準大賞　大規模山林火災から奇跡的に生き残ったアワビの返礼品　「ふるさと納税ごちそうアワード2026」",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpTDd2cnBQY1h0cF9xSXVHVkxKQV9HeFUyUzM1d0hMN3RXeVc1MkhNd25aV1RiQ1ZyOHBaVmtpWk5BVXNTOFg1aU4ta3B6bnFsRGtoXzgtbzlRXzBHS1owTXJxTWhZRGk5TDU5cVRhUdIBdEFVX3lxTE42MDA1SVhvRUZsNDA2cVdLX3pjcHRueTZnMjhOOHRXQTRDV3dsRExhME1QLTdHQzhBSkpZUXFqSzBYc2JRaHdYWEh3LUUwb2tEWWIydkk0N3pOemwxM19KZE9BTHYwUFUxMm0wcU1tNzVJZF90?oc=5",
-   "source": "ｄメニューニュース",
+   "title": "岩手・大船渡市の水産会社が準大賞 大規模山林火災から奇跡的に生き残ったアワビの返礼品 「ふるさと納税ごちそうアワード2026」",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0MkU3TnJ1ZnNfNThpTEdJcXc0MjM1NUYyNElQQ0ZncXl3MHJUT3VpQVB6am8xa1ljSWdOSTJtWEc2eWJGVFZha3RHYm9TSlpUeGNMbGNSdw?oc=5",
+   "source": "TBS NEWS DIG",
    "major": false,
    "summary": "",
    "published": "2026-11-14T11:35+09:00",
@@ -5803,6 +7368,27 @@
    "first_seen": "2026-11-17T22:31+09:00"
   },
   {
+   "id": "2e894714c5009a05",
+   "title": "根室のサンマ、絆の証し 東海大静岡キャンパスで「さんま祭り」（朝日新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Nk1ObE1ZZjYtbk95bkx0VmhoOHB3TjFiMGhKNkhjdERLN1lRU1N3NG5fMzFiUUI2TFZWTl8wbnc1LWd1LUg2djZuLXIyRFNPWG91MENINnNRaF9lanBxMlZFdU9VRkpybUVoMC1WcnpfbFBDQ0k0bUFmU3dzVmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "major": true,
+   "summary": "",
+   "published": "2026-11-14T11:00+09:00",
+   "via": [
+    "Yahoo!ニュース（水産全般）"
+   ],
+   "score": 9.0,
+   "areas": [],
+   "categories": [
+    "migratory"
+   ],
+   "keywords": [
+    "サンマ"
+   ],
+   "first_seen": "2026-11-21T07:29+09:00"
+  },
+  {
    "id": "2dd745d7db3acb50",
    "title": "函館サーモン6期目始動 規模拡大 幼魚放流進む（函館新聞デジタル）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qb3IzU0pfZWgzbjFSWjM4aUJzOV9BTktxTlp5SG1nLUItX1RXZTF1cVIwMzZQNkV3dG5ZX3NSRjIzckV5eElSdUVQbThjMHY0UEZqZkJyVmFIY1JvNnE4Vmx3elVfbkZMQU1LaVN0Q2cyMW5FaXNtU0NMbFRhcnc?oc=5",
@@ -5822,6 +7408,32 @@
     "サーモン"
    ],
    "first_seen": "2026-11-19T07:38+09:00"
+  },
+  {
+   "id": "ccad94449e912c6c",
+   "title": "仙台国際ホテル「20年前の方法」と紙でやり取り 青森県漁連「マグロの市況が届かなくなった」＜マイクロソフト大規模障害",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mMU01VWRWSWlqR0ZrRy00Zk9HaGd6T0VjUElKT0tvVnJUTHBWRTNEZDhTd0VEN21NQkdfYjQ0dFc3UGpQdUdTX0M3UTRqdlg4VGx0eEVUUTRCMVU?oc=5",
+   "source": "河北新報",
+   "major": false,
+   "summary": "",
+   "published": "2026-11-14T10:14+09:00",
+   "via": [
+    "キーワード:県漁連・漁協"
+   ],
+   "score": 31.5,
+   "areas": [
+    "tohoku"
+   ],
+   "categories": [
+    "org",
+    "migratory"
+   ],
+   "keywords": [
+    "青森",
+    "漁連",
+    "マグロ"
+   ],
+   "first_seen": "2026-11-20T07:34+09:00"
   },
   {
    "id": "41fedcc7c0b7ac77",
@@ -5895,30 +7507,6 @@
    "keywords": [
     "カキ",
     "販売"
-   ],
-   "first_seen": "2026-11-20T07:34+09:00"
-  },
-  {
-   "id": "a5fb26f520cf572c",
-   "title": "漁連、来年の操業拡大を正式決定 福島、自粛は原発半径７キロ",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3Nk1zcHEzTldtNEZxT1o1Z3dUYmxXeFR0SHhuZ1M3MjhRakh2MkVtUWZKdzVrLUdobktTdzRteXUzaloyeFppNXY2WDRSWlYwUTZHUHNXUUVfNXAtM2g1WmJjNFFTUjFFVnFRWHdSTQ?oc=5",
-   "source": "山陽新聞",
-   "major": false,
-   "summary": "",
-   "published": "2026-11-14T09:26+09:00",
-   "via": [
-    "キーワード:県漁連・漁協"
-   ],
-   "score": 22.5,
-   "areas": [
-    "tohoku"
-   ],
-   "categories": [
-    "org"
-   ],
-   "keywords": [
-    "福島",
-    "漁連"
    ],
    "first_seen": "2026-11-20T07:34+09:00"
   },
@@ -6925,32 +8513,6 @@
    "areas": [],
    "categories": [],
    "keywords": [],
-   "first_seen": "2026-11-20T07:34+09:00"
-  },
-  {
-   "id": "ccad94449e912c6c",
-   "title": "仙台国際ホテル「20年前の方法」と紙でやり取り 青森県漁連「マグロの市況が届かなくなった」＜マイクロソフト大規模障害",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mMU01VWRWSWlqR0ZrRy00Zk9HaGd6T0VjUElKT0tvVnJUTHBWRTNEZDhTd0VEN21NQkdfYjQ0dFc3UGpQdUdTX0M3UTRqdlg4VGx0eEVUUTRCMVU?oc=5",
-   "source": "河北新報",
-   "major": false,
-   "summary": "",
-   "published": "2026-11-13T12:55+09:00",
-   "via": [
-    "キーワード:県漁連・漁協"
-   ],
-   "score": 31.5,
-   "areas": [
-    "tohoku"
-   ],
-   "categories": [
-    "org",
-    "migratory"
-   ],
-   "keywords": [
-    "青森",
-    "漁連",
-    "マグロ"
-   ],
    "first_seen": "2026-11-20T07:34+09:00"
   },
   {
@@ -8046,32 +9608,6 @@
     "岩手",
     "宮古",
     "アワビ"
-   ],
-   "first_seen": "2026-11-17T22:31+09:00"
-  },
-  {
-   "id": "5e934fcdb27c8da0",
-   "title": "秋の味覚サンマ初水揚げ９トン　例年より小ぶり　福島県いわき市小名浜港",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KdmNoQWZMVWNoYkxCY216c1BzcFJJRFVsWkFndUJJT0ROb2dWRUZNeTd0V2d2Y0llcFZVNERRV3NGdmFRdndpbHZjaVZWbHFhb3VMTDJxckcwWXoyTXR6ZTBuVnVfTngxQU5rN2k5a9IBd0FVX3lxTE43cE5TRzlCT2lSWFIyZjFpczNCLV80RHpYcldSUWFNck9URVZ6ejFSaEdhaHNXcVVRRXBsdkF1MkgtR0NDQjF4emdXWGFYVjRYS2szR3ItaENiM0NiaTlKX2VXblZBN1NlT2VRc2RGRDNiX1lraXRr?oc=5",
-   "source": "日刊スポーツ",
-   "major": false,
-   "summary": "",
-   "published": "2026-11-12T17:03+09:00",
-   "via": [
-    "キーワード:サンマ・スルメイカ"
-   ],
-   "score": 21.0,
-   "areas": [
-    "tohoku"
-   ],
-   "categories": [
-    "migratory",
-    "market"
-   ],
-   "keywords": [
-    "福島",
-    "サンマ",
-    "水揚げ"
    ],
    "first_seen": "2026-11-17T22:31+09:00"
   },
